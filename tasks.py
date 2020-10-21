@@ -73,7 +73,7 @@ def clientes_rentaveis_ano(df):
 		dfyear = df[df['Order Date'].dt.year == y]
 		dfr = pd.DataFrame(columns=['Segment'])
 		ind = 0
-		df_temp = dfyear.groupby(by=['Segment','Country','Category','Sub-Category'])
+		df_temp = dfyear.groupby(by=['Segment', 'Country', 'Category', 'Sub-Category'])
 		for name, group in df_temp:
 			group = group.reset_index()
 			try:
@@ -110,11 +110,12 @@ def clientes_rentaveis_ano(df):
 			ind1 = ind1 + 1
 		
 		dfr1.to_csv('./output/segmento_rentavel_total_' + str(y) + '.csv', index=False)
-		
+
+
 def distribuicao_clientes(df):
-	dfr = pd.DataFrame(columns=['Country','Segment','Clients'])
+	dfr = pd.DataFrame(columns=['Country', 'Segment', 'Clients'])
 	ind = 0
-	df_temp = df.groupby(by=['Country','Segment'])
+	df_temp = df.groupby(by=['Country', 'Segment'])
 	for name, group in df_temp:
 		group = group.reset_index()
 		try:
@@ -132,19 +133,85 @@ def distribuicao_clientes(df):
 	for name, group in df_temp:
 		label = list(group['Segment'])
 		values = list(group['Clients'])
-		pizza_graph(name,values,label)
-		
-	
-	
-	
-	
-def pizza_graph(country,values,labels):
+		pizza_graph(name, values, label)
+
+
+def pizza_graph(country, values, labels):
 	plt.pie(values, labels=labels, autopct='%1.1f%%')
 	plt.title(country)
 	plt.axis('equal')
-	plt.savefig('./output/distribuicao_clientes/distribuicao_clientes_' + country + '.pdf',dpi = 300,
+	plt.savefig('./output/distribuicao_clientes/distribuicao_clientes_' + country + '.pdf', dpi=300,
 	            bbox_inches='tight')
 	plt.close()
+
+
+def frequencia_compra(df):
+	dfr = pd.DataFrame(columns=['customer ID'])
+	ind = 0
+	df_temp = df.groupby(by=['customer ID'])
+	for name, group in df_temp:
+		group = group.reset_index()
+		try:
+			group = delete_irrelevant_feature(group, 'index')
+		except:
+			print("index col not found")
+		
+		# mesmo customer ID em varios paises
+		dfr.at[ind, 'customer ID'] = group.loc[0, 'customer ID']
+		dfr.at[ind, 'Frequency'] = group['Order Date'].unique().shape[0]  # data ultima compra
+		dfr.at[ind, 'Profit'] = group['Profit'].sum()
+		dfr.at[ind, 'Sales'] = group['Sales'].sum() #considerando que a sales = quantidade x preco unitario
+		last_purchase = group['Order Date'].max()
+		reference_date = datetime.strptime('31-12-2014', '%d-%m-%Y')
+		recencia = (reference_date - last_purchase).days
+		dfr.at[ind, 'Recencia'] = recencia
+		
+		if recencia == 0:
+			recencia = 1
+			
+		dfr.at[ind,'CustomerValue'] = (dfr.at[ind, 'Frequency'] * dfr.at[ind, 'Profit'])/recencia #quanto maior o
+		# tempo de ultima compra menor o valor do cliente
+		ind = ind + 1
+	#Profit,Sales,Recencia,CustomerValue
+	dfr['Profit'] = np.round(dfr['Profit'], decimals=2)
+	dfr['Sales'] = np.round(dfr['Sales'], decimals=2)
+	dfr['Recencia'] = np.round(dfr['Recencia'], decimals=2)
+	dfr['CustomerValue'] = np.round(dfr['CustomerValue'], decimals=2)
 	
+	dfr = dfr.sort_values(by=['CustomerValue'],ascending=False)
+	dfr.to_csv('./output/valor_do_cliente.csv', index=False)
+	df1 = dfr[dfr['Profit'] > 0]  # lucro positivo
+	df2 = dfr[dfr['Profit'] <= 0]  # prejuizo
+	df3 = dfr[dfr['Sales'] > 0]  # faturamento bruto
+	
+	x = df1['Frequency']
+	y = df1['Profit']
+	fig, ax = plt.subplots(figsize=(10, 5))
+	ax.scatter(x, y)
+	ax.set_title('Frequency x Profit')
+	ax.set_xlabel('Purchase Frequency in 4 Years')
+	ax.set_ylabel('Profit by Client')
+	plt.savefig('./output/frequencia_compras_lucro.pdf', dpi=300, bbox_inches='tight')
+	plt.close()
+	
+	x = df2['Frequency']
+	y = df2['Profit']
+	fig, ax = plt.subplots(figsize=(10, 5))
+	ax.scatter(x, y)
+	ax.set_title('Frequency x Profit')
+	ax.set_xlabel('Purchase Frequency in 4 Years')
+	ax.set_ylabel('Profit by Client')
+	plt.savefig('./output/frequencia_compras_prejuizo.pdf', dpi=300, bbox_inches='tight')
+	plt.close()
+	
+	x = df3['Frequency']
+	y = df3['Sales']
+	fig, ax = plt.subplots(figsize=(10, 5))
+	ax.scatter(x, y)
+	ax.set_title('Frequency x Sales')
+	ax.set_xlabel('Purchase Frequency in 4 Years')
+	ax.set_ylabel('Sales by Client')
+	plt.savefig('./output/frequencia_compras_faturamento_bruto.pdf', dpi=300, bbox_inches='tight')
+	plt.close()
 	
 	

@@ -1,0 +1,409 @@
+Country,Segment,Clients
+Afghanistan,Consumer,7
+Afghanistan,Corporate,14
+Afghanistan,Home Office,4
+Albania,Consumer,3
+Albania,Corporate,6
+Albania,Home Office,1
+Algeria,Consumer,43
+Algeria,Corporate,24
+Algeria,Home Office,19
+Angola,Consumer,37
+Angola,Corporate,14
+Angola,Home Office,8
+Argentina,Consumer,89
+Argentina,Corporate,51
+Argentina,Home Office,29
+Armenia,Consumer,2
+Australia,Consumer,346
+Australia,Corporate,200
+Australia,Home Office,114
+Austria,Consumer,76
+Austria,Corporate,59
+Austria,Home Office,29
+Azerbaijan,Consumer,10
+Azerbaijan,Corporate,10
+Bahrain,Corporate,1
+Bangladesh,Consumer,42
+Bangladesh,Corporate,18
+Bangladesh,Home Office,16
+Barbados,Consumer,7
+Barbados,Corporate,4
+Barbados,Home Office,2
+Belarus,Consumer,22
+Belarus,Corporate,9
+Belarus,Home Office,10
+Belgium,Consumer,34
+Belgium,Corporate,25
+Belgium,Home Office,12
+Benin,Consumer,10
+Benin,Corporate,12
+Benin,Home Office,1
+Bolivia,Consumer,16
+Bolivia,Corporate,4
+Bolivia,Home Office,6
+Bosnia and Herzegovina,Consumer,3
+Bosnia and Herzegovina,Corporate,1
+Bosnia and Herzegovina,Home Office,4
+Brazil,Consumer,250
+Brazil,Corporate,138
+Brazil,Home Office,84
+Bulgaria,Consumer,24
+Bulgaria,Corporate,6
+Bulgaria,Home Office,8
+Burundi,Consumer,2
+Cambodia,Consumer,12
+Cambodia,Corporate,7
+Cambodia,Home Office,2
+Cameroon,Consumer,29
+Cameroon,Corporate,20
+Cameroon,Home Office,13
+Canada,Consumer,91
+Canada,Corporate,56
+Canada,Home Office,34
+Central African Republic,Consumer,1
+Central African Republic,Corporate,3
+Chad,Home Office,1
+Chile,Consumer,46
+Chile,Corporate,16
+Chile,Home Office,13
+China,Consumer,276
+China,Corporate,170
+China,Home Office,103
+Colombia,Consumer,73
+Colombia,Corporate,50
+Colombia,Home Office,28
+Cote d'Ivoire,Consumer,21
+Cote d'Ivoire,Corporate,13
+Cote d'Ivoire,Home Office,12
+Croatia,Consumer,11
+Croatia,Corporate,7
+Croatia,Home Office,2
+Cuba,Consumer,143
+Cuba,Corporate,93
+Cuba,Home Office,60
+Czech Republic,Consumer,15
+Czech Republic,Corporate,10
+Czech Republic,Home Office,10
+Democratic Republic of the Congo,Consumer,90
+Democratic Republic of the Congo,Corporate,50
+Democratic Republic of the Congo,Home Office,33
+Denmark,Consumer,21
+Denmark,Corporate,7
+Denmark,Home Office,3
+Djibouti,Consumer,2
+Djibouti,Corporate,1
+Djibouti,Home Office,2
+Dominican Republic,Consumer,149
+Dominican Republic,Corporate,84
+Dominican Republic,Home Office,70
+Ecuador,Consumer,11
+Ecuador,Corporate,8
+Ecuador,Home Office,5
+Egypt,Consumer,117
+Egypt,Corporate,55
+Egypt,Home Office,42
+El Salvador,Consumer,159
+El Salvador,Corporate,90
+El Salvador,Home Office,50
+Equatorial Guinea,Consumer,1
+Eritrea,Corporate,1
+Estonia,Consumer,2
+Estonia,Corporate,5
+Ethiopia,Consumer,2
+Ethiopia,Corporate,1
+Ethiopia,Home Office,1
+Finland,Consumer,20
+Finland,Corporate,8
+Finland,Home Office,5
+France,Consumer,349
+France,Corporate,208
+France,Home Office,122
+Gabon,Consumer,3
+Gabon,Corporate,2
+Georgia,Consumer,10
+Georgia,Corporate,7
+Georgia,Home Office,2
+Germany,Consumer,310
+Germany,Corporate,165
+Germany,Home Office,107
+Ghana,Consumer,34
+Ghana,Corporate,15
+Ghana,Home Office,11
+Guadeloupe,Consumer,2
+Guadeloupe,Home Office,2
+Guatemala,Consumer,116
+Guatemala,Corporate,60
+Guatemala,Home Office,43
+Guinea,Consumer,7
+Guinea,Corporate,2
+Guinea,Home Office,1
+Guinea-Bissau,Consumer,1
+Guinea-Bissau,Home Office,3
+Haiti,Consumer,19
+Haiti,Corporate,15
+Haiti,Home Office,5
+Honduras,Consumer,146
+Honduras,Corporate,74
+Honduras,Home Office,59
+Hong Kong,Consumer,6
+Hong Kong,Corporate,1
+Hong Kong,Home Office,2
+Hungary,Consumer,14
+Hungary,Corporate,7
+Hungary,Home Office,6
+India,Consumer,252
+India,Corporate,142
+India,Home Office,100
+Indonesia,Consumer,249
+Indonesia,Corporate,144
+Indonesia,Home Office,76
+Iran,Consumer,142
+Iran,Corporate,75
+Iran,Home Office,42
+Iraq,Consumer,94
+Iraq,Corporate,53
+Iraq,Home Office,31
+Ireland,Consumer,29
+Ireland,Corporate,11
+Ireland,Home Office,9
+Israel,Consumer,24
+Israel,Corporate,16
+Israel,Home Office,8
+Italy,Consumer,188
+Italy,Corporate,124
+Italy,Home Office,64
+Jamaica,Consumer,7
+Jamaica,Corporate,5
+Jamaica,Home Office,3
+Japan,Consumer,64
+Japan,Corporate,39
+Japan,Home Office,21
+Jordan,Consumer,9
+Jordan,Corporate,5
+Jordan,Home Office,3
+Kazakhstan,Consumer,28
+Kazakhstan,Corporate,15
+Kazakhstan,Home Office,10
+Kenya,Consumer,29
+Kenya,Corporate,15
+Kenya,Home Office,10
+Kyrgyzstan,Consumer,12
+Kyrgyzstan,Corporate,2
+Kyrgyzstan,Home Office,4
+Lebanon,Consumer,5
+Lebanon,Corporate,1
+Lebanon,Home Office,2
+Lesotho,Corporate,3
+Liberia,Consumer,2
+Liberia,Corporate,3
+Liberia,Home Office,2
+Libya,Consumer,10
+Libya,Corporate,5
+Libya,Home Office,3
+Lithuania,Consumer,12
+Lithuania,Corporate,10
+Lithuania,Home Office,3
+Macedonia,Consumer,2
+Macedonia,Home Office,1
+Madagascar,Consumer,13
+Madagascar,Corporate,8
+Madagascar,Home Office,6
+Malaysia,Consumer,40
+Malaysia,Corporate,24
+Malaysia,Home Office,17
+Mali,Consumer,13
+Mali,Corporate,6
+Mali,Home Office,3
+Martinique,Consumer,8
+Martinique,Corporate,1
+Martinique,Home Office,2
+Mauritania,Consumer,5
+Mauritania,Corporate,1
+Mauritania,Home Office,2
+Mexico,Consumer,350
+Mexico,Corporate,202
+Mexico,Home Office,118
+Moldova,Consumer,7
+Moldova,Corporate,5
+Moldova,Home Office,4
+Mongolia,Consumer,4
+Mongolia,Corporate,7
+Mongolia,Home Office,2
+Montenegro,Consumer,1
+Montenegro,Corporate,1
+Morocco,Consumer,94
+Morocco,Corporate,58
+Morocco,Home Office,40
+Mozambique,Consumer,23
+Mozambique,Corporate,12
+Mozambique,Home Office,11
+Myanmar (Burma),Consumer,29
+Myanmar (Burma),Corporate,17
+Myanmar (Burma),Home Office,10
+Namibia,Consumer,2
+Namibia,Corporate,3
+Nepal,Consumer,3
+Nepal,Corporate,2
+Nepal,Home Office,1
+Netherlands,Consumer,96
+Netherlands,Corporate,50
+Netherlands,Home Office,38
+New Zealand,Consumer,123
+New Zealand,Corporate,83
+New Zealand,Home Office,46
+Nicaragua,Consumer,128
+Nicaragua,Corporate,80
+Nicaragua,Home Office,51
+Niger,Consumer,9
+Niger,Corporate,5
+Niger,Home Office,3
+Nigeria,Consumer,177
+Nigeria,Corporate,95
+Nigeria,Home Office,60
+Norway,Consumer,17
+Norway,Corporate,15
+Norway,Home Office,5
+Pakistan,Consumer,52
+Pakistan,Corporate,46
+Pakistan,Home Office,18
+Panama,Consumer,85
+Panama,Corporate,64
+Panama,Home Office,34
+Papua New Guinea,Consumer,5
+Papua New Guinea,Corporate,3
+Papua New Guinea,Home Office,1
+Paraguay,Consumer,4
+Paraguay,Corporate,1
+Paraguay,Home Office,1
+Peru,Consumer,37
+Peru,Corporate,17
+Peru,Home Office,14
+Philippines,Consumer,142
+Philippines,Corporate,73
+Philippines,Home Office,60
+Poland,Consumer,53
+Poland,Corporate,33
+Poland,Home Office,21
+Portugal,Consumer,22
+Portugal,Corporate,13
+Portugal,Home Office,1
+Qatar,Consumer,4
+Qatar,Corporate,1
+Qatar,Home Office,1
+Republic of the Congo,Consumer,1
+Republic of the Congo,Corporate,1
+Romania,Consumer,41
+Romania,Corporate,29
+Romania,Home Office,15
+Russia,Consumer,87
+Russia,Corporate,53
+Russia,Home Office,34
+Rwanda,Consumer,9
+Rwanda,Corporate,6
+Rwanda,Home Office,2
+Saudi Arabia,Consumer,76
+Saudi Arabia,Corporate,50
+Saudi Arabia,Home Office,27
+Senegal,Consumer,32
+Senegal,Corporate,15
+Senegal,Home Office,9
+Sierra Leone,Consumer,2
+Sierra Leone,Corporate,2
+Sierra Leone,Home Office,2
+Singapore,Consumer,38
+Singapore,Corporate,17
+Singapore,Home Office,10
+Slovakia,Consumer,2
+Slovakia,Corporate,2
+Slovenia,Consumer,1
+Slovenia,Corporate,1
+Somalia,Consumer,16
+Somalia,Corporate,8
+Somalia,Home Office,8
+South Africa,Consumer,96
+South Africa,Corporate,67
+South Africa,Home Office,41
+South Korea,Consumer,41
+South Korea,Corporate,16
+South Korea,Home Office,17
+South Sudan,Corporate,1
+South Sudan,Home Office,1
+Spain,Consumer,162
+Spain,Corporate,114
+Spain,Home Office,61
+Sri Lanka,Corporate,2
+Sri Lanka,Home Office,2
+Sudan,Consumer,22
+Sudan,Corporate,13
+Sudan,Home Office,5
+Swaziland,Consumer,1
+Swaziland,Home Office,1
+Sweden,Consumer,43
+Sweden,Corporate,37
+Sweden,Home Office,16
+Switzerland,Consumer,25
+Switzerland,Corporate,10
+Switzerland,Home Office,4
+Syria,Consumer,8
+Syria,Corporate,4
+Syria,Home Office,4
+Taiwan,Consumer,4
+Taiwan,Corporate,1
+Tajikistan,Consumer,2
+Tanzania,Consumer,31
+Tanzania,Corporate,26
+Tanzania,Home Office,12
+Thailand,Consumer,66
+Thailand,Corporate,37
+Thailand,Home Office,24
+Togo,Consumer,8
+Togo,Corporate,8
+Togo,Home Office,4
+Trinidad and Tobago,Consumer,3
+Trinidad and Tobago,Corporate,5
+Trinidad and Tobago,Home Office,5
+Tunisia,Consumer,6
+Tunisia,Corporate,2
+Tunisia,Home Office,1
+Turkey,Consumer,239
+Turkey,Corporate,138
+Turkey,Home Office,86
+Turkmenistan,Consumer,10
+Turkmenistan,Corporate,4
+Turkmenistan,Home Office,2
+Uganda,Consumer,11
+Uganda,Corporate,5
+Uganda,Home Office,3
+Ukraine,Consumer,102
+Ukraine,Corporate,53
+Ukraine,Home Office,31
+United Arab Emirates,Consumer,5
+United Arab Emirates,Corporate,1
+United Kingdom,Consumer,268
+United Kingdom,Corporate,161
+United Kingdom,Home Office,100
+United States,Consumer,409
+United States,Corporate,236
+United States,Home Office,148
+Uruguay,Consumer,10
+Uruguay,Corporate,2
+Uruguay,Home Office,3
+Uzbekistan,Consumer,14
+Uzbekistan,Corporate,5
+Uzbekistan,Home Office,3
+Venezuela,Consumer,55
+Venezuela,Corporate,23
+Venezuela,Home Office,15
+Vietnam,Consumer,62
+Vietnam,Corporate,28
+Vietnam,Home Office,23
+Yemen,Consumer,8
+Yemen,Corporate,2
+Yemen,Home Office,1
+Zambia,Consumer,23
+Zambia,Corporate,12
+Zambia,Home Office,11
+Zimbabwe,Consumer,15
+Zimbabwe,Corporate,15
+Zimbabwe,Home Office,10

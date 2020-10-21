@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 from DataPreparation import verify_dataset, delete_irrelevant_feature, str_2_datetime
-from tasks import volume_vendas, tempo_medio_entrega, clientes_rentaveis_ano, distribuicao_clientes
+from tasks import volume_vendas, tempo_medio_entrega, clientes_rentaveis_ano, distribuicao_clientes, frequencia_compra
 
 
 def timer(start, end):
@@ -16,7 +16,7 @@ def main():
 	df = pd.read_excel('./input/dataset_desafio_datascience.xlsx')
 	verify_dataset(df)
 	df = delete_irrelevant_feature(df, 'Postal Code')
-	df = delete_irrelevant_feature(df, 'Customer Name')
+	#df = delete_irrelevant_feature(df, 'Customer Name')
 	df = delete_irrelevant_feature(df, 'Product Name')
 	df = str_2_datetime(df, 'Order Date')
 	df = str_2_datetime(df, 'Ship Date')
@@ -24,7 +24,8 @@ def main():
 	#tempo_medio_entrega(df)
 	#volume_vendas(df)
 	#clientes_rentaveis_ano(df)
-	distribuicao_clientes(df)
+	#distribuicao_clientes(df)
+	frequencia_compra(df)
 	
 	end = time.time()
 	print("Total Execution Time : ")
