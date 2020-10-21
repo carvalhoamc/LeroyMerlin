@@ -1,0 +1,18 @@
+1)Calcular o valor médio de compra: calcule esse número dividindo a receita
+total de sua empresa em um período (geralmente um ano) pelo número de compras no
+decorrer do mesmo período.
+
+2)Calcular taxa de frequência média de compra: calcule esse número dividindo o
+número de compras pelo número de clientes exclusivos que fizeram compras durante
+ aquele período.
+
+ 3)Calcular o valor do cliente: calcule esse número multiplicando o valor médio
+ de compra pela taxa média de frequência de compra.
+
+ 4)Calcule a vida útil média do cliente: calcule esse número calculando a média
+ do número de anos que um cliente continua comprando de sua empresa.
+
+ 5)Calcule CLTV: multiplique o valor do cliente pela média de vida do cliente.
+ Isso lhe dará a receita que você pode razoavelmente esperar que um cliente
+ médio gere para sua empresa durante o relacionamento com você.
+

@@ -11,12 +11,12 @@ def str_2_datetime(df, field):
 
 def verify_dataset(df):
 	col = df.columns
-	print(df.shape)  # dataset shape
+	#print(df.shape)  # dataset shape
 	for c in col:
 		nan_counter = df[c].isnull().sum()
 		print(c, nan_counter)  # Postal Code 41296 NaN (delete it)
 	
-	print(df.dtypes)  # verify datatype for all columns
+	#print(df.dtypes)  # verify datatype for all columns
 
 
 def delete_irrelevant_feature(df, field):
