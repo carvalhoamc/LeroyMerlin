@@ -1,5 +1,6 @@
 from datetime import datetime
 
+import holidays
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -227,7 +228,8 @@ def smape(a, f):
 def mape(actual, pred):
 	actual, pred = np.array(actual), np.array(pred)
 	return np.mean(np.abs((actual - pred) / actual)) * 100
-	
+
+
 # function to build one model
 def build_model(pars):
 	wseas, mseas, yseas, s_prior, h_prior, c_prior = pars
@@ -256,6 +258,7 @@ def build_model(pars):
 			fourier_order=yseas)
 	
 	return m
+
 
 def prepare_for_forecasting(df):
 	dfr = pd.DataFrame(columns=['DS'])
@@ -287,47 +290,60 @@ def prepare_for_forecasting(df):
 	test['ds'] = df_teste['DS'].copy()
 	test['y'] = df_teste['TotalSales_Consumer'].copy()
 	
-	return train,test,reference_date
+	return train, test, reference_date
 
-def modelo_profeta(train,test,reference_date):
+
+def modelo_profeta(train, test, reference_date):
+	promotions = pd.DataFrame({
+			'holiday': 'december_promotion',
+			'ds': pd.to_datetime([datetime.strptime('08-09-2011', '%d-%m-%Y'),
+			                      datetime.strptime('08-09-2012', '%d-%m-%Y'),
+			                      datetime.strptime('08-09-2013', '%d-%m-%Y'),
+			                      datetime.strptime('08-09-2014', '%d-%m-%Y'),
+			                      datetime.strptime('25-12-2011', '%d-%m-%Y'),
+			                      datetime.strptime('25-12-2012', '%d-%m-%Y'),
+			                      datetime.strptime('25-12-2013', '%d-%m-%Y'),
+			                      datetime.strptime('25-12-2014', '%d-%m-%Y'),
+			                      datetime.strptime('24-06-2011', '%d-%m-%Y'),
+			                      datetime.strptime('24-06-2012', '%d-%m-%Y'),
+			                      datetime.strptime('24-06-2013', '%d-%m-%Y'),
+			                      datetime.strptime('24-06-2014', '%d-%m-%Y'),
+			                      datetime.strptime('11-09-2011', '%d-%m-%Y'),
+			                      datetime.strptime('11-09-2012', '%d-%m-%Y'),
+			                      datetime.strptime('11-09-2013', '%d-%m-%Y'),
+			                      datetime.strptime('11-06-2014', '%d-%m-%Y'),
+			                      datetime.strptime('25-11-2011', '%d-%m-%Y'),
+			                      datetime.strptime('25-11-2012', '%d-%m-%Y'),
+			                      datetime.strptime('25-11-2013', '%d-%m-%Y'),
+			                      datetime.strptime('25-11-2014', '%d-%m-%Y'),
+			                      datetime.strptime('24-03-2011', '%d-%m-%Y'),
+			                      datetime.strptime('24-03-2012', '%d-%m-%Y'),
+			                      datetime.strptime('24-03-2013', '%d-%m-%Y'),
+			                      datetime.strptime('24-03-2014', '%d-%m-%Y'),
+			
+			                      ]),
+			'lower_window': -5,
+			'upper_window': 5,
+	})
 	
-	params = [[3, 5, 10, 0.5, 0.5, 0.5],
-	          [15, 25, 50, 30, 15, 27],
-	          [20, 30, 60, 10, 10, 10],
-	          [2, 4, 8, 50.8, 5, 7],
-	          [50, 100, 200, 7, 14, 21],
-	          [20, 40, 85, 5.8, 0.5, 70],
-	          [30,35,20,55,15,20],
-	          [2, 2, 4, 15.8, 1.8, 4.8]]
+	m = Prophet(interval_width=0.95,
+	            growth='linear',
+	            daily_seasonality=False,
+	            weekly_seasonality=True,
+	            yearly_seasonality=True,
+	            holidays=promotions,
+	            changepoint_prior_scale=0.2,
+	            mcmc_samples=5,
+	            seasonality_mode='multiplicative',
+	            seasonality_prior_scale=365)
 	
-	best_error = 10
-	best_params = ()
-	best_val_forecast = 0
-	
-	for pars in params:
-		m = build_model(pars)
-		m.fit(train)
-		
-		future = m.make_future_dataframe(periods=31, freq='D')
-		future.tail()
-		forecast = m.predict(future)
-		
-		curerror = smape(forecast['yhat'], test['y'])
-		
-		if curerror < best_error:
-			best_error = smape(forecast['yhat'], test['y'])
-			best_params = pars
-			best_val_forecast = forecast
-	
-	print(best_params)
-	m = build_model(best_params)
 	m.fit(train)
-	
-	future = m.make_future_dataframe(periods=31, freq='D')
-	future.tail()
-	forecast = m.predict(future)
+	future_dates = m.make_future_dataframe(periods=30, freq='d')
+	future_dates.tail()
+	forecast = m.predict(future_dates)
 	forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail()
-	forecast.to_csv('./output/forecasting_' + 'TotalSales_Consumer' + '.csv', header=True, index=False, index_label='index')
+	forecast.to_csv('./output/forecasting_' + 'TotalSales_Consumer' + '.csv', header=True, index=False,
+	                index_label='index')
 	df_predito = forecast[['ds', 'yhat']]
 	df_predito = df_predito[df_predito['ds'] >= reference_date]
 	df_predito = df_predito.reset_index()
@@ -341,7 +357,7 @@ def modelo_profeta(train,test,reference_date):
 		test = delete_irrelevant_feature(test, 'index')
 	except:
 		print("index col not found")
-		
+	
 	dfresultados = pd.DataFrame(columns=['Data', 'Vendas reais', 'Forecast vendas', 'MAPE', 'SMAPE', 'RMSLE'])
 	l = df_predito.shape[0]
 	for j in np.arange(0, l):
@@ -360,11 +376,10 @@ def modelo_profeta(train,test,reference_date):
 	print('RMSLE: ', RMSLE)
 	dfresultados['MAPE'] = MAPE
 	dfresultados['SMAPE'] = SMAPE
-	dfresultados['RMSLE'] = RMSLE #best is 0
+	dfresultados['RMSLE'] = RMSLE  # best is 0
 	
 	dfresultados.to_csv('./output/resultados_forecasting' + 'TotalSales_Consumer' + '.csv', header=True, index=False,
 	                    index_label='index')
-	
 	
 	plotly.offline.plot(
 			{'data':
@@ -375,20 +390,22 @@ def modelo_profeta(train,test,reference_date):
 				  go.Scatter(x=forecast['ds'], y=forecast['yhat_lower'], fill='tonexty', mode='none',
 				             name='mínimo_pred'),
 				  go.Scatter(x=forecast['ds'], y=forecast['trend'], name='tendencia')],
-			 'layout': {'title': 'Forecast Sales ' + 'TotalSales_Consumer', 'font': dict(family='Comic Sans MS', size=16)}},
+			 'layout': {'title': 'Forecast Sales ' + 'TotalSales_Consumer',
+			            'font': dict(family='Comic Sans MS', size=16)}},
 			auto_open=False, image='png', image_filename='TotalSales_Consumer',
-			output_type='file', image_width=800, image_height=600, filename='./output/forecasting_' + 'TotalSales_Consumer' + '.html',
+			output_type='file', image_width=800, image_height=600,
+			filename='./output/forecasting_' + 'TotalSales_Consumer' + '.html',
 			validate=False
 	)
 
-def modelo_AR(train,test,reference_date):
+
+def modelo_AR(train, test, reference_date):
 	# AR example
 	from statsmodels.tsa.ar_model import AutoReg
 	data = train['y']
 	# fit model
-	model = AutoReg(data,lags=1)
+	model = AutoReg(data, lags=1)
 	ar_res = model.fit()
 	# make prediction
-	yhat = ar_res.predict(start=reference_date, end=datetime(2014,12,31))
+	yhat = ar_res.predict(start=reference_date, end=datetime(2014, 12, 31))
 	print(yhat)
-	
