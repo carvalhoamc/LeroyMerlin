@@ -1,7 +1,8 @@
 import pandas as pd
 import time
 from DataPreparation import verify_dataset, delete_irrelevant_feature, str_2_datetime
-from tasks import volume_vendas, tempo_medio_entrega, clientes_rentaveis_ano, distribuicao_clientes, frequencia_compra
+from tasks import volume_vendas, tempo_medio_entrega, clientes_rentaveis_ano, distribuicao_clientes, frequencia_compra, \
+	forecasting
 
 
 def timer(start, end):
@@ -25,7 +26,8 @@ def main():
 	#volume_vendas(df)
 	#clientes_rentaveis_ano(df)
 	#distribuicao_clientes(df)
-	frequencia_compra(df)
+	#frequencia_compra(df)
+	forecasting(df)
 	
 	end = time.time()
 	print("Total Execution Time : ")
