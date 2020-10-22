@@ -1,24 +1,13 @@
-import pandas as pd
-from datetime import datetime, date, time
-import numpy as np
-import matplotlib.pyplot as plt
-from fbprophet import Prophet
-import plotly.offline as py
-import plotly.graph_objs as go
-import plotly
-from plotly.graph_objs import Scatter, Layout
-from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error, mean_squared_log_error
-import pandas as pd
-import numpy as np
-import pandas as pd
-from fbprophet import Prophet
-import datetime as dt
-from sklearn import metrics
-import math
-import itertools
-from tqdm import tqdm
-from multiprocessing import Pool, cpu_count
+from datetime import datetime
 
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import plotly
+import plotly.graph_objs as go
+from fbprophet import Prophet
+from sklearn.metrics import mean_squared_log_error
+from fbprophet.plot import plot_plotly, plot_components_plotly
 from DataPreparation import delete_irrelevant_feature
 
 '''['Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'customer ID',
@@ -268,7 +257,7 @@ def build_model(pars):
 	
 	return m
 
-def forecasting(df):
+def prepare_for_forecasting(df):
 	dfr = pd.DataFrame(columns=['DS'])
 	ind = 0
 	df_temp = df.groupby(by=['Order Date'])
@@ -298,12 +287,17 @@ def forecasting(df):
 	test['ds'] = df_teste['DS'].copy()
 	test['y'] = df_teste['TotalSales_Consumer'].copy()
 	
+	return train,test,reference_date
+
+def modelo_profeta(train,test,reference_date):
+	
 	params = [[3, 5, 10, 0.5, 0.5, 0.5],
-	          [15, 25, 50, 0.1, 0.1, 0.1],
+	          [15, 25, 50, 30, 15, 27],
 	          [20, 30, 60, 10, 10, 10],
 	          [2, 4, 8, 50.8, 5, 7],
 	          [50, 100, 200, 7, 14, 21],
 	          [20, 40, 85, 5.8, 0.5, 70],
+	          [30,35,20,55,15,20],
 	          [2, 2, 4, 15.8, 1.8, 4.8]]
 	
 	best_error = 10
@@ -366,7 +360,7 @@ def forecasting(df):
 	print('RMSLE: ', RMSLE)
 	dfresultados['MAPE'] = MAPE
 	dfresultados['SMAPE'] = SMAPE
-	dfresultados['RMSLE'] = RMSLE
+	dfresultados['RMSLE'] = RMSLE #best is 0
 	
 	dfresultados.to_csv('./output/resultados_forecasting' + 'TotalSales_Consumer' + '.csv', header=True, index=False,
 	                    index_label='index')
@@ -386,3 +380,15 @@ def forecasting(df):
 			output_type='file', image_width=800, image_height=600, filename='./output/forecasting_' + 'TotalSales_Consumer' + '.html',
 			validate=False
 	)
+
+def modelo_AR(train,test,reference_date):
+	# AR example
+	from statsmodels.tsa.ar_model import AutoReg
+	data = train['y']
+	# fit model
+	model = AutoReg(data,lags=1)
+	ar_res = model.fit()
+	# make prediction
+	yhat = ar_res.predict(start=reference_date, end=datetime(2014,12,31))
+	print(yhat)
+	

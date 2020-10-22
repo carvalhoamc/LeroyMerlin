@@ -1,0 +1,2365 @@
+Segment,Year,Country,Market,Region,Category,Sub-Category,Profit
+Consumer,2011.0,Afghanistan,APAC,Central Asia,Furniture,Furnishings,59.34
+Consumer,2011.0,Algeria,Africa,Africa,Furniture,Bookcases,178.38
+Consumer,2011.0,Algeria,Africa,Africa,Furniture,Chairs,81.6
+Consumer,2011.0,Algeria,Africa,Africa,Furniture,Furnishings,29.43
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Appliances,55.56
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Art,6.84
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Binders,20.52
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Fasteners,41.879999999999995
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Labels,0.57
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Paper,48.06
+Consumer,2011.0,Algeria,Africa,Africa,Office Supplies,Storage,349.79999999999995
+Consumer,2011.0,Algeria,Africa,Africa,Technology,Copiers,31.23
+Consumer,2011.0,Algeria,Africa,Africa,Technology,Machines,202.32
+Consumer,2011.0,Algeria,Africa,Africa,Technology,Phones,11.04
+Consumer,2011.0,Angola,Africa,Africa,Furniture,Bookcases,49.5
+Consumer,2011.0,Angola,Africa,Africa,Furniture,Chairs,5.67
+Consumer,2011.0,Angola,Africa,Africa,Furniture,Furnishings,8.04
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Appliances,24.72
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Art,96.12
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Binders,4.5
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Envelopes,9.03
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Fasteners,6.48
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Labels,35.28
+Consumer,2011.0,Angola,Africa,Africa,Office Supplies,Storage,3.7199999999999998
+Consumer,2011.0,Angola,Africa,Africa,Technology,Machines,70.92
+Consumer,2011.0,Angola,Africa,Africa,Technology,Phones,57.24
+Consumer,2011.0,Argentina,LATAM,South,Furniture,Bookcases,-628.216
+Consumer,2011.0,Argentina,LATAM,South,Furniture,Chairs,-126.096
+Consumer,2011.0,Argentina,LATAM,South,Furniture,Furnishings,-71.13600000000001
+Consumer,2011.0,Argentina,LATAM,South,Office Supplies,Art,-41.468
+Consumer,2011.0,Argentina,LATAM,South,Office Supplies,Envelopes,-75.74000000000001
+Consumer,2011.0,Argentina,LATAM,South,Office Supplies,Fasteners,-13.340000000000002
+Consumer,2011.0,Argentina,LATAM,South,Office Supplies,Labels,-5.792
+Consumer,2011.0,Argentina,LATAM,South,Office Supplies,Storage,-35.904
+Consumer,2011.0,Argentina,LATAM,South,Technology,Accessories,-8.223999999999998
+Consumer,2011.0,Argentina,LATAM,South,Technology,Copiers,-123.94488
+Consumer,2011.0,Argentina,LATAM,South,Technology,Phones,-9.780000000000015
+Consumer,2011.0,Armenia,EMEA,EMEA,Furniture,Chairs,45.21
+Consumer,2011.0,Armenia,EMEA,EMEA,Furniture,Furnishings,21.03
+Consumer,2011.0,Australia,APAC,Oceania,Furniture,Bookcases,-465.21
+Consumer,2011.0,Australia,APAC,Oceania,Furniture,Chairs,-5.415000000000081
+Consumer,2011.0,Australia,APAC,Oceania,Furniture,Furnishings,273.336
+Consumer,2011.0,Australia,APAC,Oceania,Furniture,Tables,-58.57199999999999
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Appliances,1139.433
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Art,-11.702999999999996
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Binders,61.85399999999999
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Envelopes,77.77799999999999
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Fasteners,88.203
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Labels,99.624
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Paper,269.928
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Storage,199.08
+Consumer,2011.0,Australia,APAC,Oceania,Office Supplies,Supplies,315.606
+Consumer,2011.0,Australia,APAC,Oceania,Technology,Accessories,139.899
+Consumer,2011.0,Australia,APAC,Oceania,Technology,Copiers,2203.9080000000004
+Consumer,2011.0,Australia,APAC,Oceania,Technology,Machines,822.81
+Consumer,2011.0,Australia,APAC,Oceania,Technology,Phones,1342.551
+Consumer,2011.0,Austria,EU,Central,Furniture,Bookcases,529.32
+Consumer,2011.0,Austria,EMEA,EMEA,Furniture,Chairs,160.83
+Consumer,2011.0,Austria,EU,Central,Furniture,Furnishings,56.82
+Consumer,2011.0,Austria,EMEA,EMEA,Furniture,Tables,341.49
+Consumer,2011.0,Austria,EU,Central,Office Supplies,Appliances,414.12
+Consumer,2011.0,Austria,EMEA,EMEA,Office Supplies,Art,47.76
+Consumer,2011.0,Austria,EU,Central,Office Supplies,Binders,34.32
+Consumer,2011.0,Austria,EU,Central,Office Supplies,Paper,7.05
+Consumer,2011.0,Austria,EMEA,EMEA,Office Supplies,Storage,387.24
+Consumer,2011.0,Austria,EU,Central,Office Supplies,Supplies,20.7
+Consumer,2011.0,Austria,EU,Central,Technology,Copiers,236.52
+Consumer,2011.0,Austria,EMEA,EMEA,Technology,Machines,99.89999999999999
+Consumer,2011.0,Azerbaijan,EMEA,EMEA,Office Supplies,Binders,5.4
+Consumer,2011.0,Azerbaijan,EMEA,EMEA,Office Supplies,Storage,0.0
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Furniture,Bookcases,116.37
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Furniture,Chairs,65.7
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Furniture,Furnishings,245.37
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Art,103.41
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Binders,41.16
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Envelopes,16.8
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Fasteners,27.0
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Labels,9.9
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Paper,120.57000000000001
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Supplies,44.79
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Technology,Copiers,232.23000000000002
+Consumer,2011.0,Bangladesh,APAC,Central Asia,Technology,Phones,1610.28
+Consumer,2011.0,Barbados,LATAM,Caribbean,Office Supplies,Binders,3.34
+Consumer,2011.0,Barbados,LATAM,Caribbean,Office Supplies,Paper,21.92
+Consumer,2011.0,Belarus,EMEA,EMEA,Furniture,Chairs,7.92
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Appliances,28.62
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Art,10.02
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Binders,3.9
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Envelopes,1.14
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Fasteners,13.02
+Consumer,2011.0,Belarus,EMEA,EMEA,Office Supplies,Supplies,3.42
+Consumer,2011.0,Belgium,EU,Central,Office Supplies,Appliances,883.1999999999999
+Consumer,2011.0,Belgium,EU,Central,Office Supplies,Art,52.11
+Consumer,2011.0,Belgium,EU,Central,Office Supplies,Supplies,19.32
+Consumer,2011.0,Belgium,EU,Central,Technology,Phones,315.72
+Consumer,2011.0,Benin,Africa,Africa,Office Supplies,Appliances,43.44
+Consumer,2011.0,Benin,Africa,Africa,Office Supplies,Art,8.52
+Consumer,2011.0,Benin,Africa,Africa,Technology,Phones,289.2
+Consumer,2011.0,Bolivia,LATAM,South,Furniture,Bookcases,396.28
+Consumer,2011.0,Bolivia,LATAM,South,Furniture,Chairs,7.12
+Consumer,2011.0,Bolivia,LATAM,South,Office Supplies,Fasteners,5.32
+Consumer,2011.0,Brazil,LATAM,South,Furniture,Bookcases,488.556
+Consumer,2011.0,Brazil,LATAM,South,Furniture,Chairs,669.544
+Consumer,2011.0,Brazil,LATAM,South,Furniture,Furnishings,22.856
+Consumer,2011.0,Brazil,LATAM,South,Furniture,Tables,-654.476
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Appliances,186.236
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Art,-9.639999999999997
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Binders,65.24
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Envelopes,171.24
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Fasteners,62.54
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Labels,12.26
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Paper,49.580000000000005
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Storage,30.4
+Consumer,2011.0,Brazil,LATAM,South,Office Supplies,Supplies,200.74
+Consumer,2011.0,Brazil,LATAM,South,Technology,Accessories,333.56399999999996
+Consumer,2011.0,Brazil,LATAM,South,Technology,Copiers,739.77692
+Consumer,2011.0,Brazil,LATAM,South,Technology,Machines,-165.46
+Consumer,2011.0,Brazil,LATAM,South,Technology,Phones,73.93599999999995
+Consumer,2011.0,Bulgaria,EMEA,EMEA,Furniture,Furnishings,12.36
+Consumer,2011.0,Bulgaria,EMEA,EMEA,Office Supplies,Art,9.87
+Consumer,2011.0,Bulgaria,EMEA,EMEA,Office Supplies,Fasteners,32.76
+Consumer,2011.0,Bulgaria,EMEA,EMEA,Office Supplies,Storage,158.4
+Consumer,2011.0,Bulgaria,EMEA,EMEA,Technology,Phones,229.98
+Consumer,2011.0,Burundi,Africa,Africa,Furniture,Furnishings,22.8
+Consumer,2011.0,Cambodia,APAC,Southeast Asia,Office Supplies,Envelopes,3.6
+Consumer,2011.0,Cameroon,Africa,Africa,Furniture,Furnishings,27.36
+Consumer,2011.0,Cameroon,Africa,Africa,Office Supplies,Binders,13.92
+Consumer,2011.0,Cameroon,Africa,Africa,Office Supplies,Labels,5.699999999999999
+Consumer,2011.0,Cameroon,Africa,Africa,Technology,Copiers,93.72
+Consumer,2011.0,Cameroon,Africa,Africa,Technology,Machines,28.14
+Consumer,2011.0,Canada,Canada,Canada,Furniture,Chairs,105.96
+Consumer,2011.0,Canada,Canada,Canada,Furniture,Furnishings,14.370000000000001
+Consumer,2011.0,Canada,Canada,Canada,Office Supplies,Art,19.11
+Consumer,2011.0,Canada,Canada,Canada,Office Supplies,Binders,128.67000000000002
+Consumer,2011.0,Canada,Canada,Canada,Office Supplies,Fasteners,18.0
+Consumer,2011.0,Canada,Canada,Canada,Office Supplies,Labels,18.54
+Consumer,2011.0,Canada,Canada,Canada,Office Supplies,Storage,240.81
+Consumer,2011.0,Canada,Canada,Canada,Technology,Accessories,5.37
+Consumer,2011.0,Canada,Canada,Canada,Technology,Copiers,152.76
+Consumer,2011.0,Canada,Canada,Canada,Technology,Machines,71.76
+Consumer,2011.0,Canada,Canada,Canada,Technology,Phones,123.24
+Consumer,2011.0,Chile,LATAM,South,Furniture,Bookcases,25.5
+Consumer,2011.0,Chile,LATAM,South,Furniture,Chairs,8.6
+Consumer,2011.0,Chile,LATAM,South,Office Supplies,Binders,8.64
+Consumer,2011.0,Chile,LATAM,South,Office Supplies,Fasteners,0.4
+Consumer,2011.0,Chile,LATAM,South,Office Supplies,Labels,3.64
+Consumer,2011.0,Chile,LATAM,South,Office Supplies,Paper,11.04
+Consumer,2011.0,Chile,LATAM,South,Office Supplies,Storage,81.24000000000001
+Consumer,2011.0,China,APAC,North Asia,Furniture,Bookcases,2029.89
+Consumer,2011.0,China,APAC,North Asia,Furniture,Chairs,3052.9199999999996
+Consumer,2011.0,China,APAC,North Asia,Furniture,Furnishings,497.04
+Consumer,2011.0,China,APAC,North Asia,Furniture,Tables,606.963
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Appliances,1327.4699999999998
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Art,428.64000000000004
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Binders,321.51000000000005
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Envelopes,347.55000000000007
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Fasteners,117.81
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Labels,55.019999999999996
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Paper,227.29500000000002
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Storage,1253.82
+Consumer,2011.0,China,APAC,North Asia,Office Supplies,Supplies,216.3
+Consumer,2011.0,China,APAC,North Asia,Technology,Accessories,770.16
+Consumer,2011.0,China,APAC,North Asia,Technology,Copiers,2268.1800000000003
+Consumer,2011.0,China,APAC,North Asia,Technology,Machines,418.85999999999996
+Consumer,2011.0,China,APAC,North Asia,Technology,Phones,4076.13
+Consumer,2011.0,Colombia,LATAM,South,Furniture,Chairs,377.84
+Consumer,2011.0,Colombia,LATAM,South,Furniture,Furnishings,33.2
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Appliances,897.08
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Art,34.3
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Binders,27.28
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Labels,7.44
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Paper,69.44
+Consumer,2011.0,Colombia,LATAM,South,Office Supplies,Storage,70.5
+Consumer,2011.0,Colombia,LATAM,South,Technology,Accessories,12.6
+Consumer,2011.0,Colombia,LATAM,South,Technology,Copiers,535.72176
+Consumer,2011.0,Colombia,LATAM,South,Technology,Phones,95.2
+Consumer,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Art,3.96
+Consumer,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Storage,24.12
+Consumer,2011.0,Cote d'Ivoire,Africa,Africa,Technology,Phones,1428.0
+Consumer,2011.0,Croatia,EMEA,EMEA,Furniture,Furnishings,1.26
+Consumer,2011.0,Cuba,LATAM,Caribbean,Furniture,Bookcases,1193.56
+Consumer,2011.0,Cuba,LATAM,Caribbean,Furniture,Chairs,241.22
+Consumer,2011.0,Cuba,LATAM,Caribbean,Furniture,Furnishings,147.89999999999998
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Appliances,88.74
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Art,11.08
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Binders,67.62
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Envelopes,150.6
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Fasteners,3.08
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Labels,30.380000000000003
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Paper,63.260000000000005
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Storage,162.06
+Consumer,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Supplies,98.74
+Consumer,2011.0,Cuba,LATAM,Caribbean,Technology,Accessories,130.42000000000002
+Consumer,2011.0,Cuba,LATAM,Caribbean,Technology,Copiers,313.52616
+Consumer,2011.0,Cuba,LATAM,Caribbean,Technology,Phones,512.3000000000001
+Consumer,2011.0,Czech Republic,EMEA,EMEA,Furniture,Furnishings,96.72
+Consumer,2011.0,Czech Republic,EMEA,EMEA,Office Supplies,Storage,15.96
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Furniture,Furnishings,25.049999999999997
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Appliances,1.32
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Art,217.07999999999998
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Binders,37.14
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Envelopes,12.96
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Fasteners,37.68
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Labels,5.52
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Paper,26.370000000000005
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Storage,160.5
+Consumer,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Machines,174.81
+Consumer,2011.0,Denmark,EU,North,Office Supplies,Art,-10.92
+Consumer,2011.0,Denmark,EU,North,Office Supplies,Binders,-10.755
+Consumer,2011.0,Denmark,EU,North,Office Supplies,Storage,-73.8
+Consumer,2011.0,Denmark,EU,North,Office Supplies,Supplies,-37.755
+Consumer,2011.0,Denmark,EU,North,Technology,Machines,-538.275
+Consumer,2011.0,Denmark,EU,North,Technology,Phones,-13.005
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Bookcases,81.584
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Chairs,94.96800000000002
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Furnishings,-298.91999999999996
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Appliances,549.144
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Art,18.752000000000002
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Binders,-35.936
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Envelopes,-3.7600000000000002
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Fasteners,8.076
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Labels,7.96
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Paper,-4.8
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Storage,23.607999999999997
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Supplies,31.564
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Accessories,33.432
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Copiers,13.718119999999999
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Machines,-121.792
+Consumer,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Phones,-332.28
+Consumer,2011.0,Ecuador,LATAM,South,Furniture,Chairs,65.82
+Consumer,2011.0,Ecuador,LATAM,South,Furniture,Furnishings,22.68
+Consumer,2011.0,Ecuador,LATAM,South,Office Supplies,Fasteners,6.5
+Consumer,2011.0,Ecuador,LATAM,South,Office Supplies,Labels,38.38
+Consumer,2011.0,Ecuador,LATAM,South,Office Supplies,Storage,13.52
+Consumer,2011.0,Ecuador,LATAM,South,Technology,Phones,69.8
+Consumer,2011.0,Egypt,Africa,Africa,Furniture,Bookcases,10.05
+Consumer,2011.0,Egypt,Africa,Africa,Furniture,Chairs,426.17999999999995
+Consumer,2011.0,Egypt,Africa,Africa,Furniture,Furnishings,39.96
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Appliances,189.0
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Art,287.19
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Binders,50.01
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Envelopes,0.0
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Fasteners,2.46
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Labels,25.5
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Paper,16.92
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Storage,252.68999999999997
+Consumer,2011.0,Egypt,Africa,Africa,Office Supplies,Supplies,21.81
+Consumer,2011.0,Egypt,Africa,Africa,Technology,Accessories,7.29
+Consumer,2011.0,Egypt,Africa,Africa,Technology,Copiers,479.88
+Consumer,2011.0,Egypt,Africa,Africa,Technology,Machines,42.18
+Consumer,2011.0,Egypt,Africa,Africa,Technology,Phones,107.13
+Consumer,2011.0,El Salvador,LATAM,Central,Furniture,Bookcases,612.68
+Consumer,2011.0,El Salvador,LATAM,Central,Furniture,Chairs,1624.14
+Consumer,2011.0,El Salvador,LATAM,Central,Furniture,Furnishings,151.51999999999998
+Consumer,2011.0,El Salvador,LATAM,Central,Furniture,Tables,825.884
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Appliances,444.2
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Art,127.35999999999999
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Binders,54.62
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Envelopes,110.6
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Fasteners,35.5
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Labels,38.66
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Paper,16.919999999999998
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Storage,302.14
+Consumer,2011.0,El Salvador,LATAM,Central,Office Supplies,Supplies,141.22
+Consumer,2011.0,El Salvador,LATAM,Central,Technology,Accessories,659.12
+Consumer,2011.0,El Salvador,LATAM,Central,Technology,Copiers,606.3044
+Consumer,2011.0,El Salvador,LATAM,Central,Technology,Machines,149.64
+Consumer,2011.0,El Salvador,LATAM,Central,Technology,Phones,583.64
+Consumer,2011.0,Ethiopia,Africa,Africa,Office Supplies,Art,168.24
+Consumer,2011.0,Ethiopia,Africa,Africa,Office Supplies,Storage,4.95
+Consumer,2011.0,Finland,EU,North,Furniture,Bookcases,79.98
+Consumer,2011.0,Finland,EU,North,Furniture,Chairs,20.16
+Consumer,2011.0,Finland,EU,North,Office Supplies,Art,110.88
+Consumer,2011.0,Finland,EU,North,Office Supplies,Binders,10.92
+Consumer,2011.0,Finland,EU,North,Technology,Phones,178.11
+Consumer,2011.0,France,EU,Central,Furniture,Bookcases,-794.2739999999999
+Consumer,2011.0,France,EU,Central,Furniture,Chairs,2626.941
+Consumer,2011.0,France,EU,Central,Furniture,Furnishings,142.95
+Consumer,2011.0,France,EU,Central,Furniture,Tables,-754.4145
+Consumer,2011.0,France,EU,Central,Office Supplies,Appliances,669.795
+Consumer,2011.0,France,EU,Central,Office Supplies,Art,696.39
+Consumer,2011.0,France,EU,Central,Office Supplies,Binders,598.185
+Consumer,2011.0,France,EU,Central,Office Supplies,Envelopes,322.04999999999995
+Consumer,2011.0,France,EU,Central,Office Supplies,Fasteners,53.43
+Consumer,2011.0,France,EU,Central,Office Supplies,Labels,95.91
+Consumer,2011.0,France,EU,Central,Office Supplies,Paper,16.935
+Consumer,2011.0,France,EU,Central,Office Supplies,Storage,252.45300000000003
+Consumer,2011.0,France,EU,Central,Office Supplies,Supplies,488.7900000000001
+Consumer,2011.0,France,EU,Central,Technology,Accessories,113.72999999999999
+Consumer,2011.0,France,EU,Central,Technology,Copiers,-9.242999999999995
+Consumer,2011.0,France,EU,Central,Technology,Machines,39.08850000000001
+Consumer,2011.0,France,EU,Central,Technology,Phones,2480.1405
+Consumer,2011.0,Georgia,EMEA,EMEA,Furniture,Furnishings,31.2
+Consumer,2011.0,Georgia,EMEA,EMEA,Office Supplies,Fasteners,7.26
+Consumer,2011.0,Germany,EU,Central,Furniture,Bookcases,615.615
+Consumer,2011.0,Germany,EU,Central,Furniture,Chairs,966.2640000000001
+Consumer,2011.0,Germany,EU,Central,Furniture,Furnishings,215.964
+Consumer,2011.0,Germany,EU,Central,Furniture,Tables,-252.4169999999999
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Appliances,1993.71
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Art,899.5829999999999
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Binders,443.54699999999997
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Envelopes,42.402
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Fasteners,202.84499999999997
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Labels,79.30199999999999
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Paper,494.08799999999997
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Storage,1490.4990000000003
+Consumer,2011.0,Germany,EU,Central,Office Supplies,Supplies,199.074
+Consumer,2011.0,Germany,EU,Central,Technology,Accessories,591.9000000000001
+Consumer,2011.0,Germany,EU,Central,Technology,Copiers,925.3800000000001
+Consumer,2011.0,Germany,EU,Central,Technology,Machines,1057.3200000000002
+Consumer,2011.0,Germany,EU,Central,Technology,Phones,1942.65
+Consumer,2011.0,Ghana,Africa,Africa,Office Supplies,Art,178.64999999999998
+Consumer,2011.0,Ghana,Africa,Africa,Office Supplies,Binders,19.740000000000002
+Consumer,2011.0,Ghana,Africa,Africa,Office Supplies,Paper,31.5
+Consumer,2011.0,Ghana,Africa,Africa,Technology,Machines,1.5
+Consumer,2011.0,Guatemala,LATAM,Central,Furniture,Bookcases,437.55999999999995
+Consumer,2011.0,Guatemala,LATAM,Central,Furniture,Chairs,91.56
+Consumer,2011.0,Guatemala,LATAM,Central,Furniture,Furnishings,72.42
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Appliances,40.88
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Art,73.54
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Binders,89.88
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Envelopes,144.26
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Fasteners,8.34
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Labels,20.16
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Paper,31.459999999999997
+Consumer,2011.0,Guatemala,LATAM,Central,Office Supplies,Storage,218.04
+Consumer,2011.0,Guatemala,LATAM,Central,Technology,Accessories,587.98
+Consumer,2011.0,Guatemala,LATAM,Central,Technology,Copiers,642.25716
+Consumer,2011.0,Guatemala,LATAM,Central,Technology,Machines,80.64
+Consumer,2011.0,Guatemala,LATAM,Central,Technology,Phones,458.32
+Consumer,2011.0,Guinea,Africa,Africa,Office Supplies,Appliances,263.04
+Consumer,2011.0,Guinea,Africa,Africa,Technology,Machines,55.98
+Consumer,2011.0,Haiti,LATAM,Caribbean,Furniture,Bookcases,-95.6
+Consumer,2011.0,Haiti,LATAM,Caribbean,Furniture,Chairs,-152.224
+Consumer,2011.0,Haiti,LATAM,Caribbean,Furniture,Furnishings,-70.518
+Consumer,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Binders,-12.056
+Consumer,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Envelopes,0.0
+Consumer,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Fasteners,-0.74
+Consumer,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Storage,-1.876
+Consumer,2011.0,Haiti,LATAM,Caribbean,Technology,Accessories,-65.064
+Consumer,2011.0,Haiti,LATAM,Caribbean,Technology,Machines,-127.16
+Consumer,2011.0,Honduras,LATAM,Central,Furniture,Bookcases,-93.34
+Consumer,2011.0,Honduras,LATAM,Central,Furniture,Chairs,34.36
+Consumer,2011.0,Honduras,LATAM,Central,Furniture,Furnishings,-79.896
+Consumer,2011.0,Honduras,LATAM,Central,Furniture,Tables,-296.274
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Art,-21.272
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Binders,-53.64399999999999
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Envelopes,-62.79600000000001
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Fasteners,-13.112
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Labels,-13.832
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Paper,-4.792
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Storage,0.2240000000000011
+Consumer,2011.0,Honduras,LATAM,Central,Office Supplies,Supplies,-14.596
+Consumer,2011.0,Honduras,LATAM,Central,Technology,Accessories,-143.368
+Consumer,2011.0,Honduras,LATAM,Central,Technology,Copiers,-424.39844
+Consumer,2011.0,Honduras,LATAM,Central,Technology,Machines,-142.912
+Consumer,2011.0,Honduras,LATAM,Central,Technology,Phones,-814.82
+Consumer,2011.0,Hong Kong,APAC,North Asia,Furniture,Bookcases,114.06
+Consumer,2011.0,Hong Kong,APAC,North Asia,Office Supplies,Fasteners,4.74
+Consumer,2011.0,Hong Kong,APAC,North Asia,Technology,Phones,46.08
+Consumer,2011.0,Hungary,EMEA,EMEA,Office Supplies,Binders,18.6
+Consumer,2011.0,Hungary,EMEA,EMEA,Office Supplies,Storage,29.64
+Consumer,2011.0,India,APAC,Central Asia,Furniture,Bookcases,1682.7600000000002
+Consumer,2011.0,India,APAC,Central Asia,Furniture,Chairs,414.78000000000003
+Consumer,2011.0,India,APAC,Central Asia,Furniture,Furnishings,518.0400000000001
+Consumer,2011.0,India,APAC,Central Asia,Furniture,Tables,338.46
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Appliances,1131.3
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Art,6.300000000000004
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Binders,202.07999999999998
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Envelopes,123.21
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Fasteners,187.44
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Labels,-26.955
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Paper,113.85
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Storage,207.3
+Consumer,2011.0,India,APAC,Central Asia,Office Supplies,Supplies,243.09
+Consumer,2011.0,India,APAC,Central Asia,Technology,Accessories,314.61
+Consumer,2011.0,India,APAC,Central Asia,Technology,Copiers,1035.87
+Consumer,2011.0,India,APAC,Central Asia,Technology,Machines,309.93
+Consumer,2011.0,India,APAC,Central Asia,Technology,Phones,2024.4
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Bookcases,1372.9488000000001
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Chairs,-185.367
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Furnishings,16.1199
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Tables,-758.2455
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Appliances,55.769099999999995
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Art,-46.1481
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Binders,0.09029999999998495
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Envelopes,-180.2262
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Fasteners,-71.0604
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Labels,-30.273
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Paper,-77.4177
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Storage,421.23390000000006
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Supplies,-260.82959999999997
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Technology,Accessories,-678.813
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Technology,Copiers,620.6715
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Technology,Machines,118.54080000000003
+Consumer,2011.0,Indonesia,APAC,Southeast Asia,Technology,Phones,654.2184000000001
+Consumer,2011.0,Iran,EMEA,EMEA,Furniture,Bookcases,61.95
+Consumer,2011.0,Iran,EMEA,EMEA,Furniture,Chairs,109.35
+Consumer,2011.0,Iran,EMEA,EMEA,Furniture,Furnishings,314.13
+Consumer,2011.0,Iran,EMEA,EMEA,Furniture,Tables,130.5
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Appliances,42.9
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Art,282.21
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Binders,39.33
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Envelopes,59.46
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Fasteners,32.31
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Storage,219.81
+Consumer,2011.0,Iran,EMEA,EMEA,Office Supplies,Supplies,46.05
+Consumer,2011.0,Iran,EMEA,EMEA,Technology,Accessories,39.39
+Consumer,2011.0,Iran,EMEA,EMEA,Technology,Copiers,220.11
+Consumer,2011.0,Iran,EMEA,EMEA,Technology,Machines,103.28999999999999
+Consumer,2011.0,Iran,EMEA,EMEA,Technology,Phones,98.43
+Consumer,2011.0,Iraq,EMEA,EMEA,Furniture,Bookcases,113.46
+Consumer,2011.0,Iraq,EMEA,EMEA,Furniture,Chairs,85.71000000000001
+Consumer,2011.0,Iraq,EMEA,EMEA,Furniture,Furnishings,18.63
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Appliances,51.24
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Art,60.540000000000006
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Binders,129.42000000000002
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Envelopes,14.25
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Fasteners,2.97
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Storage,83.64
+Consumer,2011.0,Iraq,EMEA,EMEA,Office Supplies,Supplies,23.34
+Consumer,2011.0,Iraq,EMEA,EMEA,Technology,Accessories,20.85
+Consumer,2011.0,Iraq,EMEA,EMEA,Technology,Copiers,127.32
+Consumer,2011.0,Iraq,EMEA,EMEA,Technology,Machines,164.16
+Consumer,2011.0,Ireland,EU,North,Furniture,Furnishings,-87.84
+Consumer,2011.0,Ireland,EU,North,Office Supplies,Appliances,-39.195
+Consumer,2011.0,Ireland,EU,North,Office Supplies,Art,-55.754999999999995
+Consumer,2011.0,Ireland,EU,North,Office Supplies,Binders,-69.16499999999999
+Consumer,2011.0,Ireland,EU,North,Office Supplies,Storage,-8.13
+Consumer,2011.0,Ireland,EU,North,Technology,Accessories,-197.505
+Consumer,2011.0,Ireland,EU,North,Technology,Machines,-60.87
+Consumer,2011.0,Ireland,EU,North,Technology,Phones,-210.43499999999997
+Consumer,2011.0,Israel,EMEA,EMEA,Furniture,Bookcases,18.27
+Consumer,2011.0,Israel,EMEA,EMEA,Furniture,Chairs,47.28
+Consumer,2011.0,Israel,EMEA,EMEA,Furniture,Furnishings,117.72
+Consumer,2011.0,Israel,EMEA,EMEA,Furniture,Tables,107.88
+Consumer,2011.0,Israel,EMEA,EMEA,Office Supplies,Art,8.73
+Consumer,2011.0,Israel,EMEA,EMEA,Office Supplies,Binders,2.64
+Consumer,2011.0,Israel,EMEA,EMEA,Office Supplies,Fasteners,7.2299999999999995
+Consumer,2011.0,Israel,EMEA,EMEA,Office Supplies,Paper,60.989999999999995
+Consumer,2011.0,Israel,EMEA,EMEA,Office Supplies,Storage,1.59
+Consumer,2011.0,Israel,EMEA,EMEA,Technology,Accessories,47.910000000000004
+Consumer,2011.0,Italy,EU,South,Furniture,Bookcases,315.00000000000006
+Consumer,2011.0,Italy,EU,South,Furniture,Chairs,-241.62
+Consumer,2011.0,Italy,EU,South,Furniture,Furnishings,38.760000000000005
+Consumer,2011.0,Italy,EU,South,Furniture,Tables,-942.9
+Consumer,2011.0,Italy,EU,South,Office Supplies,Appliances,67.8
+Consumer,2011.0,Italy,EU,South,Office Supplies,Art,318.51000000000005
+Consumer,2011.0,Italy,EU,South,Office Supplies,Binders,240.3
+Consumer,2011.0,Italy,EU,South,Office Supplies,Envelopes,261.50999999999993
+Consumer,2011.0,Italy,EU,South,Office Supplies,Fasteners,74.16
+Consumer,2011.0,Italy,EU,South,Office Supplies,Labels,24.630000000000003
+Consumer,2011.0,Italy,EU,South,Office Supplies,Paper,153.9
+Consumer,2011.0,Italy,EU,South,Office Supplies,Storage,-432.39
+Consumer,2011.0,Italy,EU,South,Office Supplies,Supplies,113.69999999999999
+Consumer,2011.0,Italy,EU,South,Technology,Accessories,119.43
+Consumer,2011.0,Italy,EU,South,Technology,Copiers,501.06000000000006
+Consumer,2011.0,Italy,EU,South,Technology,Machines,14.141999999999996
+Consumer,2011.0,Italy,EU,South,Technology,Phones,-241.58399999999997
+Consumer,2011.0,Jamaica,LATAM,Caribbean,Office Supplies,Binders,5.58
+Consumer,2011.0,Japan,APAC,North Asia,Furniture,Bookcases,645.24
+Consumer,2011.0,Japan,APAC,North Asia,Furniture,Chairs,322.44
+Consumer,2011.0,Japan,APAC,North Asia,Office Supplies,Art,52.169999999999995
+Consumer,2011.0,Japan,APAC,North Asia,Office Supplies,Binders,33.15
+Consumer,2011.0,Japan,APAC,North Asia,Office Supplies,Fasteners,6.0
+Consumer,2011.0,Japan,APAC,North Asia,Office Supplies,Labels,78.39000000000001
+Consumer,2011.0,Japan,APAC,North Asia,Office Supplies,Supplies,85.47
+Consumer,2011.0,Japan,APAC,North Asia,Technology,Copiers,429.75
+Consumer,2011.0,Japan,APAC,North Asia,Technology,Machines,554.13
+Consumer,2011.0,Japan,APAC,North Asia,Technology,Phones,205.38
+Consumer,2011.0,Jordan,EMEA,EMEA,Furniture,Bookcases,127.71
+Consumer,2011.0,Jordan,EMEA,EMEA,Furniture,Furnishings,0.51
+Consumer,2011.0,Jordan,EMEA,EMEA,Office Supplies,Art,9.99
+Consumer,2011.0,Jordan,EMEA,EMEA,Office Supplies,Binders,25.2
+Consumer,2011.0,Jordan,EMEA,EMEA,Office Supplies,Storage,0.6
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Furniture,Furnishings,-29.871
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Appliances,-114.852
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Binders,-17.556
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Envelopes,-39.141
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Fasteners,-35.952
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Paper,-18.066
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Storage,-5.28
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Supplies,-27.099
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Technology,Accessories,-149.22
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Technology,Copiers,-1016.928
+Consumer,2011.0,Kazakhstan,EMEA,EMEA,Technology,Phones,-169.626
+Consumer,2011.0,Kenya,Africa,Africa,Furniture,Furnishings,37.98
+Consumer,2011.0,Kenya,Africa,Africa,Office Supplies,Appliances,244.05
+Consumer,2011.0,Kyrgyzstan,EMEA,EMEA,Office Supplies,Storage,2.07
+Consumer,2011.0,Liberia,Africa,Africa,Office Supplies,Storage,11.85
+Consumer,2011.0,Libya,Africa,Africa,Office Supplies,Labels,10.8
+Consumer,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Binders,-2.025
+Consumer,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Storage,-54.057
+Consumer,2011.0,Lithuania,EMEA,EMEA,Technology,Phones,-91.803
+Consumer,2011.0,Madagascar,Africa,Africa,Office Supplies,Labels,9.18
+Consumer,2011.0,Madagascar,Africa,Africa,Office Supplies,Supplies,3.6899999999999995
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Furniture,Chairs,215.07
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Furniture,Furnishings,27.78
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Labels,32.85
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Storage,63.81
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Technology,Accessories,11.76
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Technology,Copiers,331.92
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Technology,Machines,215.73
+Consumer,2011.0,Malaysia,APAC,Southeast Asia,Technology,Phones,720.33
+Consumer,2011.0,Martinique,LATAM,Caribbean,Office Supplies,Binders,3.48
+Consumer,2011.0,Martinique,LATAM,Caribbean,Office Supplies,Paper,54.8
+Consumer,2011.0,Mexico,LATAM,North,Furniture,Bookcases,188.95200000000006
+Consumer,2011.0,Mexico,LATAM,North,Furniture,Chairs,504.4759999999999
+Consumer,2011.0,Mexico,LATAM,North,Furniture,Furnishings,-216.69600000000003
+Consumer,2011.0,Mexico,LATAM,North,Furniture,Tables,712.708
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Appliances,1310.22
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Art,102.02
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Binders,350.8199999999999
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Envelopes,214.10000000000005
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Fasteners,146.3
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Labels,83.58
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Paper,187.31999999999996
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Storage,1317.6200000000003
+Consumer,2011.0,Mexico,LATAM,North,Office Supplies,Supplies,215.52
+Consumer,2011.0,Mexico,LATAM,North,Technology,Accessories,313.42
+Consumer,2011.0,Mexico,LATAM,North,Technology,Copiers,1805.0226400000004
+Consumer,2011.0,Mexico,LATAM,North,Technology,Machines,497.76000000000005
+Consumer,2011.0,Mexico,LATAM,North,Technology,Phones,2482.88
+Consumer,2011.0,Moldova,EMEA,EMEA,Technology,Machines,62.82
+Consumer,2011.0,Mongolia,EMEA,EMEA,Office Supplies,Art,9.99
+Consumer,2011.0,Morocco,Africa,Africa,Furniture,Bookcases,235.08
+Consumer,2011.0,Morocco,Africa,Africa,Furniture,Chairs,463.11
+Consumer,2011.0,Morocco,Africa,Africa,Furniture,Furnishings,98.03999999999999
+Consumer,2011.0,Morocco,Africa,Africa,Furniture,Tables,115.2
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Appliances,223.5
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Art,42.42
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Binders,76.08
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Envelopes,2.85
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Labels,12.51
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Paper,11.37
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Storage,111.06
+Consumer,2011.0,Morocco,Africa,Africa,Office Supplies,Supplies,121.62000000000002
+Consumer,2011.0,Morocco,Africa,Africa,Technology,Accessories,132.18
+Consumer,2011.0,Morocco,Africa,Africa,Technology,Copiers,42.24
+Consumer,2011.0,Morocco,Africa,Africa,Technology,Machines,471.09000000000003
+Consumer,2011.0,Morocco,Africa,Africa,Technology,Phones,17.82
+Consumer,2011.0,Mozambique,Africa,Africa,Furniture,Bookcases,120.36
+Consumer,2011.0,Mozambique,Africa,Africa,Furniture,Chairs,194.76
+Consumer,2011.0,Mozambique,Africa,Africa,Furniture,Furnishings,41.459999999999994
+Consumer,2011.0,Mozambique,Africa,Africa,Office Supplies,Art,32.010000000000005
+Consumer,2011.0,Mozambique,Africa,Africa,Office Supplies,Binders,12.36
+Consumer,2011.0,Mozambique,Africa,Africa,Office Supplies,Envelopes,8.19
+Consumer,2011.0,Mozambique,Africa,Africa,Office Supplies,Storage,138.75
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Furniture,Chairs,109.31700000000001
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Furniture,Furnishings,-5.4411
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Appliances,26.3571
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Art,4.8399
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Fasteners,-1.152
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Labels,13.6275
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Paper,9.8406
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Technology,Accessories,-107.3484
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Technology,Copiers,-151.7724
+Consumer,2011.0,Myanmar (Burma),APAC,Southeast Asia,Technology,Phones,14.3424
+Consumer,2011.0,Netherlands,EU,Central,Furniture,Bookcases,-1382.2800000000002
+Consumer,2011.0,Netherlands,EU,Central,Furniture,Chairs,-459.45
+Consumer,2011.0,Netherlands,EU,Central,Furniture,Furnishings,40.47
+Consumer,2011.0,Netherlands,EU,Central,Furniture,Tables,-499.977
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Appliances,-1856.175
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Art,-149.39999999999998
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Binders,-81.0
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Envelopes,-43.769999999999996
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Fasteners,-26.79
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Labels,-29.79
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Paper,-37.86
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Storage,-472.86
+Consumer,2011.0,Netherlands,EU,Central,Office Supplies,Supplies,-18.66
+Consumer,2011.0,Netherlands,EU,Central,Technology,Accessories,-355.62
+Consumer,2011.0,Netherlands,EU,Central,Technology,Copiers,-1778.64
+Consumer,2011.0,Netherlands,EU,Central,Technology,Phones,-468.735
+Consumer,2011.0,New Zealand,APAC,Oceania,Furniture,Bookcases,86.46
+Consumer,2011.0,New Zealand,APAC,Oceania,Furniture,Chairs,728.1
+Consumer,2011.0,New Zealand,APAC,Oceania,Furniture,Furnishings,78.33000000000001
+Consumer,2011.0,New Zealand,APAC,Oceania,Furniture,Tables,517.56
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Appliances,70.5
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Art,109.2
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Binders,25.139999999999997
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Envelopes,53.84400000000001
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Fasteners,46.013999999999996
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Labels,28.14
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Paper,112.90200000000002
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Storage,125.64
+Consumer,2011.0,New Zealand,APAC,Oceania,Office Supplies,Supplies,39.0
+Consumer,2011.0,New Zealand,APAC,Oceania,Technology,Accessories,291.88800000000003
+Consumer,2011.0,New Zealand,APAC,Oceania,Technology,Copiers,-466.64400000000006
+Consumer,2011.0,New Zealand,APAC,Oceania,Technology,Phones,344.03999999999996
+Consumer,2011.0,Nicaragua,LATAM,Central,Furniture,Bookcases,230.79999999999998
+Consumer,2011.0,Nicaragua,LATAM,Central,Furniture,Chairs,1243.42
+Consumer,2011.0,Nicaragua,LATAM,Central,Furniture,Furnishings,66.72
+Consumer,2011.0,Nicaragua,LATAM,Central,Furniture,Tables,363.556
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Appliances,319.1
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Art,108.96
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Binders,78.46000000000001
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Envelopes,43.959999999999994
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Fasteners,8.16
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Labels,19.68
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Paper,45.0
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Storage,316.08
+Consumer,2011.0,Nicaragua,LATAM,Central,Office Supplies,Supplies,122.6
+Consumer,2011.0,Nicaragua,LATAM,Central,Technology,Accessories,197.10000000000002
+Consumer,2011.0,Nicaragua,LATAM,Central,Technology,Copiers,624.4517999999999
+Consumer,2011.0,Nicaragua,LATAM,Central,Technology,Phones,492.91999999999996
+Consumer,2011.0,Niger,Africa,Africa,Furniture,Bookcases,19.59
+Consumer,2011.0,Niger,Africa,Africa,Office Supplies,Binders,2.97
+Consumer,2011.0,Niger,Africa,Africa,Office Supplies,Paper,106.8
+Consumer,2011.0,Niger,Africa,Africa,Office Supplies,Storage,2.79
+Consumer,2011.0,Nigeria,Africa,Africa,Furniture,Bookcases,-1401.2219999999998
+Consumer,2011.0,Nigeria,Africa,Africa,Furniture,Chairs,-427.24199999999996
+Consumer,2011.0,Nigeria,Africa,Africa,Furniture,Furnishings,-245.68199999999996
+Consumer,2011.0,Nigeria,Africa,Africa,Furniture,Tables,-275.757
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Appliances,-1291.509
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Art,-346.983
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Binders,-288.273
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Envelopes,-64.554
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Fasteners,-51.972
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Labels,-65.19
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Paper,-488.418
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Storage,-963.657
+Consumer,2011.0,Nigeria,Africa,Africa,Office Supplies,Supplies,-378.183
+Consumer,2011.0,Nigeria,Africa,Africa,Technology,Accessories,-203.55300000000003
+Consumer,2011.0,Nigeria,Africa,Africa,Technology,Copiers,-1447.002
+Consumer,2011.0,Nigeria,Africa,Africa,Technology,Machines,-228.456
+Consumer,2011.0,Nigeria,Africa,Africa,Technology,Phones,-498.942
+Consumer,2011.0,Norway,EU,North,Furniture,Furnishings,9.18
+Consumer,2011.0,Norway,EU,North,Office Supplies,Binders,25.53
+Consumer,2011.0,Norway,EU,North,Office Supplies,Labels,8.1
+Consumer,2011.0,Norway,EU,North,Office Supplies,Storage,2.97
+Consumer,2011.0,Norway,EU,North,Office Supplies,Supplies,68.04
+Consumer,2011.0,Norway,EU,North,Technology,Accessories,18.45
+Consumer,2011.0,Norway,EU,North,Technology,Phones,142.08
+Consumer,2011.0,Pakistan,APAC,Central Asia,Furniture,Bookcases,-7.847999999999999
+Consumer,2011.0,Pakistan,APAC,Central Asia,Furniture,Chairs,98.946
+Consumer,2011.0,Pakistan,APAC,Central Asia,Furniture,Furnishings,-53.91
+Consumer,2011.0,Pakistan,APAC,Central Asia,Furniture,Tables,-1218.384
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Art,-11.76
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Envelopes,-7.98
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Labels,-19.695
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Paper,0.0
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Storage,-3.72
+Consumer,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Supplies,-63.105
+Consumer,2011.0,Pakistan,APAC,Central Asia,Technology,Accessories,-33.24
+Consumer,2011.0,Pakistan,APAC,Central Asia,Technology,Copiers,-0.195
+Consumer,2011.0,Pakistan,APAC,Central Asia,Technology,Phones,-29.43
+Consumer,2011.0,Panama,LATAM,Central,Furniture,Bookcases,-297.48
+Consumer,2011.0,Panama,LATAM,Central,Furniture,Chairs,-333.272
+Consumer,2011.0,Panama,LATAM,Central,Furniture,Furnishings,-36.816
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Appliances,-325.036
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Art,-24.264000000000003
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Binders,1.956
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Envelopes,0.768
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Fasteners,-33.948
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Labels,-0.648
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Paper,-3.508
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Storage,1.18
+Consumer,2011.0,Panama,LATAM,Central,Office Supplies,Supplies,-18.727999999999998
+Consumer,2011.0,Panama,LATAM,Central,Technology,Accessories,-137.704
+Consumer,2011.0,Panama,LATAM,Central,Technology,Copiers,-127.20215999999999
+Consumer,2011.0,Papua New Guinea,APAC,Oceania,Technology,Accessories,-37.44
+Consumer,2011.0,Paraguay,LATAM,South,Technology,Accessories,26.04
+Consumer,2011.0,Peru,LATAM,South,Furniture,Chairs,-157.0
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Appliances,-79.524
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Art,2.304
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Binders,-34.644
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Envelopes,-10.552
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Labels,-3.008
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Paper,-7.956
+Consumer,2011.0,Peru,LATAM,South,Office Supplies,Storage,-157.968
+Consumer,2011.0,Peru,LATAM,South,Technology,Accessories,1.3159999999999998
+Consumer,2011.0,Peru,LATAM,South,Technology,Copiers,-132.42456
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Furniture,Bookcases,43.48950000000001
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Furniture,Chairs,-184.53749999999997
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Furniture,Furnishings,136.0725
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Furniture,Tables,-1434.1575
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Appliances,134.51999999999998
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Art,-30.7185
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Binders,151.341
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Envelopes,-13.4535
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Fasteners,-80.2905
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Labels,-2.4465
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Paper,-200.1165
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Storage,-594.5145
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Supplies,-349.92150000000004
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Technology,Accessories,-545.472
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Technology,Copiers,-248.418
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Technology,Machines,-326.7075
+Consumer,2011.0,Philippines,APAC,Southeast Asia,Technology,Phones,-157.905
+Consumer,2011.0,Poland,EMEA,EMEA,Furniture,Furnishings,39.36
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Art,4.74
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Binders,8.19
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Fasteners,0.0
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Labels,10.8
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Paper,14.46
+Consumer,2011.0,Poland,EMEA,EMEA,Office Supplies,Storage,76.38
+Consumer,2011.0,Poland,EMEA,EMEA,Technology,Accessories,32.4
+Consumer,2011.0,Poland,EMEA,EMEA,Technology,Machines,116.43
+Consumer,2011.0,Poland,EMEA,EMEA,Technology,Phones,142.56
+Consumer,2011.0,Portugal,EU,South,Furniture,Bookcases,-57.54
+Consumer,2011.0,Portugal,EU,South,Furniture,Chairs,-103.32
+Consumer,2011.0,Portugal,EU,South,Furniture,Furnishings,-114.45
+Consumer,2011.0,Portugal,EU,South,Office Supplies,Appliances,-376.335
+Consumer,2011.0,Portugal,EU,South,Office Supplies,Art,-78.93
+Consumer,2011.0,Portugal,EU,South,Office Supplies,Binders,-36.33
+Consumer,2011.0,Portugal,EU,South,Office Supplies,Envelopes,-4.98
+Consumer,2011.0,Portugal,EU,South,Office Supplies,Storage,-74.13
+Consumer,2011.0,Republic of the Congo,Africa,Africa,Furniture,Bookcases,142.5
+Consumer,2011.0,Republic of the Congo,Africa,Africa,Office Supplies,Binders,18.96
+Consumer,2011.0,Republic of the Congo,Africa,Africa,Office Supplies,Storage,6.3
+Consumer,2011.0,Romania,EMEA,EMEA,Furniture,Bookcases,84.48
+Consumer,2011.0,Romania,EMEA,EMEA,Furniture,Chairs,40.26
+Consumer,2011.0,Romania,EMEA,EMEA,Office Supplies,Binders,10.2
+Consumer,2011.0,Romania,EMEA,EMEA,Office Supplies,Fasteners,14.219999999999999
+Consumer,2011.0,Romania,EMEA,EMEA,Office Supplies,Labels,15.96
+Consumer,2011.0,Romania,EMEA,EMEA,Office Supplies,Storage,15.33
+Consumer,2011.0,Romania,EMEA,EMEA,Technology,Accessories,52.71
+Consumer,2011.0,Romania,EMEA,EMEA,Technology,Machines,97.8
+Consumer,2011.0,Romania,EMEA,EMEA,Technology,Phones,74.46000000000001
+Consumer,2011.0,Russia,EMEA,EMEA,Furniture,Bookcases,308.96999999999997
+Consumer,2011.0,Russia,EMEA,EMEA,Furniture,Furnishings,106.71
+Consumer,2011.0,Russia,EMEA,EMEA,Furniture,Tables,873.36
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Appliances,515.52
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Art,277.40999999999997
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Binders,28.080000000000002
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Envelopes,9.0
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Fasteners,10.59
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Labels,52.650000000000006
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Paper,45.239999999999995
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Storage,78.81
+Consumer,2011.0,Russia,EMEA,EMEA,Office Supplies,Supplies,65.34
+Consumer,2011.0,Russia,EMEA,EMEA,Technology,Accessories,128.88
+Consumer,2011.0,Russia,EMEA,EMEA,Technology,Phones,67.11
+Consumer,2011.0,Rwanda,Africa,Africa,Furniture,Furnishings,13.56
+Consumer,2011.0,Rwanda,Africa,Africa,Office Supplies,Storage,6.3
+Consumer,2011.0,Rwanda,Africa,Africa,Office Supplies,Supplies,8.76
+Consumer,2011.0,Rwanda,Africa,Africa,Technology,Machines,41.46
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Bookcases,325.71
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Furnishings,2.91
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Tables,67.38
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Art,60.17999999999999
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Binders,38.19
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Envelopes,76.56
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Fasteners,10.65
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Labels,36.3
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Paper,19.68
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Storage,348.87
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Supplies,90.0
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Accessories,23.28
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Machines,128.88
+Consumer,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Phones,2010.7800000000002
+Consumer,2011.0,Senegal,Africa,Africa,Office Supplies,Binders,6.42
+Consumer,2011.0,Senegal,Africa,Africa,Office Supplies,Envelopes,0.72
+Consumer,2011.0,Senegal,Africa,Africa,Office Supplies,Storage,112.44
+Consumer,2011.0,Senegal,Africa,Africa,Office Supplies,Supplies,45.72
+Consumer,2011.0,Senegal,Africa,Africa,Technology,Accessories,30.06
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Furniture,Bookcases,266.25
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Furniture,Chairs,113.07000000000001
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Appliances,44.73
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Envelopes,89.34
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Labels,1.89
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Paper,24.48
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Storage,148.04999999999998
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Supplies,118.71000000000001
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Technology,Accessories,230.31
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Technology,Copiers,73.41
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Technology,Machines,74.46
+Consumer,2011.0,Singapore,APAC,Southeast Asia,Technology,Phones,266.58
+Consumer,2011.0,Slovakia,EMEA,EMEA,Furniture,Furnishings,13.56
+Consumer,2011.0,Slovakia,EMEA,EMEA,Office Supplies,Appliances,0.0
+Consumer,2011.0,Slovakia,EMEA,EMEA,Office Supplies,Binders,0.96
+Consumer,2011.0,Slovakia,EMEA,EMEA,Office Supplies,Storage,19.8
+Consumer,2011.0,Somalia,Africa,Africa,Furniture,Chairs,0.0
+Consumer,2011.0,Somalia,Africa,Africa,Office Supplies,Art,9.03
+Consumer,2011.0,Somalia,Africa,Africa,Office Supplies,Binders,0.0
+Consumer,2011.0,Somalia,Africa,Africa,Office Supplies,Fasteners,10.2
+Consumer,2011.0,Somalia,Africa,Africa,Office Supplies,Paper,10.71
+Consumer,2011.0,Somalia,Africa,Africa,Office Supplies,Storage,0.6
+Consumer,2011.0,Somalia,Africa,Africa,Technology,Accessories,1.02
+Consumer,2011.0,Somalia,Africa,Africa,Technology,Phones,16.71
+Consumer,2011.0,South Africa,Africa,Africa,Furniture,Bookcases,53.34
+Consumer,2011.0,South Africa,Africa,Africa,Furniture,Furnishings,15.6
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Appliances,0.0
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Art,74.76
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Binders,55.92
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Envelopes,9.24
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Fasteners,50.46
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Labels,24.93
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Paper,30.48
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Storage,108.99000000000001
+Consumer,2011.0,South Africa,Africa,Africa,Office Supplies,Supplies,32.58
+Consumer,2011.0,South Africa,Africa,Africa,Technology,Machines,33.0
+Consumer,2011.0,South Africa,Africa,Africa,Technology,Phones,352.2
+Consumer,2011.0,South Korea,APAC,North Asia,Furniture,Bookcases,-437.7180000000001
+Consumer,2011.0,South Korea,APAC,North Asia,Furniture,Chairs,9.732000000000001
+Consumer,2011.0,South Korea,APAC,North Asia,Furniture,Furnishings,-26.208
+Consumer,2011.0,South Korea,APAC,North Asia,Furniture,Tables,-780.6419999999999
+Consumer,2011.0,South Korea,APAC,North Asia,Office Supplies,Appliances,-25.68
+Consumer,2011.0,South Korea,APAC,North Asia,Office Supplies,Binders,-66.96
+Consumer,2011.0,South Korea,APAC,North Asia,Office Supplies,Envelopes,-39.6
+Consumer,2011.0,South Korea,APAC,North Asia,Office Supplies,Storage,-634.9649999999999
+Consumer,2011.0,South Korea,APAC,North Asia,Office Supplies,Supplies,-119.69999999999999
+Consumer,2011.0,South Korea,APAC,North Asia,Technology,Accessories,-322.26000000000005
+Consumer,2011.0,South Korea,APAC,North Asia,Technology,Machines,-288.345
+Consumer,2011.0,South Korea,APAC,North Asia,Technology,Phones,-471.69
+Consumer,2011.0,Spain,EU,South,Furniture,Bookcases,1388.0100000000002
+Consumer,2011.0,Spain,EU,South,Furniture,Chairs,93.57000000000001
+Consumer,2011.0,Spain,EU,South,Furniture,Furnishings,204.63
+Consumer,2011.0,Spain,EU,South,Furniture,Tables,-741.516
+Consumer,2011.0,Spain,EU,South,Office Supplies,Appliances,127.13999999999999
+Consumer,2011.0,Spain,EU,South,Office Supplies,Art,149.49
+Consumer,2011.0,Spain,EU,South,Office Supplies,Binders,106.68
+Consumer,2011.0,Spain,EU,South,Office Supplies,Envelopes,40.379999999999995
+Consumer,2011.0,Spain,EU,South,Office Supplies,Fasteners,6.96
+Consumer,2011.0,Spain,EU,South,Office Supplies,Labels,15.629999999999999
+Consumer,2011.0,Spain,EU,South,Office Supplies,Paper,19.71
+Consumer,2011.0,Spain,EU,South,Office Supplies,Storage,392.424
+Consumer,2011.0,Spain,EU,South,Office Supplies,Supplies,60.449999999999996
+Consumer,2011.0,Spain,EU,South,Technology,Accessories,608.55
+Consumer,2011.0,Spain,EU,South,Technology,Copiers,443.82
+Consumer,2011.0,Spain,EU,South,Technology,Machines,7.704000000000001
+Consumer,2011.0,Spain,EU,South,Technology,Phones,294.30600000000004
+Consumer,2011.0,Sudan,Africa,Africa,Furniture,Chairs,9.18
+Consumer,2011.0,Sudan,Africa,Africa,Office Supplies,Art,30.029999999999998
+Consumer,2011.0,Sudan,Africa,Africa,Office Supplies,Binders,5.1899999999999995
+Consumer,2011.0,Sudan,Africa,Africa,Office Supplies,Labels,13.530000000000001
+Consumer,2011.0,Sudan,Africa,Africa,Office Supplies,Paper,94.56
+Consumer,2011.0,Sudan,Africa,Africa,Office Supplies,Storage,11.37
+Consumer,2011.0,Swaziland,Africa,Africa,Office Supplies,Binders,59.16
+Consumer,2011.0,Sweden,EU,North,Furniture,Chairs,-142.83
+Consumer,2011.0,Sweden,EU,North,Office Supplies,Art,-53.279999999999994
+Consumer,2011.0,Sweden,EU,North,Office Supplies,Envelopes,-3.69
+Consumer,2011.0,Sweden,EU,North,Office Supplies,Fasteners,-6.06
+Consumer,2011.0,Sweden,EU,North,Office Supplies,Storage,-146.49
+Consumer,2011.0,Sweden,EU,North,Technology,Accessories,-177.39
+Consumer,2011.0,Sweden,EU,North,Technology,Copiers,-128.04
+Consumer,2011.0,Switzerland,EU,Central,Furniture,Furnishings,39.989999999999995
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Appliances,233.52
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Art,11.88
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Binders,25.83
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Fasteners,5.88
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Labels,0.72
+Consumer,2011.0,Switzerland,EU,Central,Office Supplies,Storage,13.32
+Consumer,2011.0,Switzerland,EU,Central,Technology,Phones,30.6
+Consumer,2011.0,Syria,EMEA,EMEA,Technology,Phones,13.596
+Consumer,2011.0,Taiwan,APAC,North Asia,Furniture,Furnishings,133.76999999999998
+Consumer,2011.0,Taiwan,APAC,North Asia,Office Supplies,Envelopes,18.06
+Consumer,2011.0,Tajikistan,EMEA,EMEA,Office Supplies,Labels,-3.846
+Consumer,2011.0,Tanzania,Africa,Africa,Furniture,Furnishings,2.85
+Consumer,2011.0,Tanzania,Africa,Africa,Furniture,Tables,138.42
+Consumer,2011.0,Tanzania,Africa,Africa,Office Supplies,Art,0.0
+Consumer,2011.0,Tanzania,Africa,Africa,Office Supplies,Binders,29.52
+Consumer,2011.0,Tanzania,Africa,Africa,Office Supplies,Labels,0.12
+Consumer,2011.0,Tanzania,Africa,Africa,Office Supplies,Storage,47.802
+Consumer,2011.0,Tanzania,Africa,Africa,Office Supplies,Supplies,26.76
+Consumer,2011.0,Tanzania,Africa,Africa,Technology,Accessories,20.97
+Consumer,2011.0,Tanzania,Africa,Africa,Technology,Copiers,224.94
+Consumer,2011.0,Tanzania,Africa,Africa,Technology,Machines,99.183
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Furniture,Bookcases,-116.3031
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Furniture,Chairs,-43.40100000000001
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Furniture,Furnishings,22.4778
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Appliances,-30.8028
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Art,-31.974
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Binders,4.3815
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Envelopes,1.2321
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Fasteners,-5.6826
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Paper,-2.7336
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Storage,-205.60590000000002
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Supplies,-171.96779999999998
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Technology,Accessories,-41.9823
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Technology,Machines,53.3706
+Consumer,2011.0,Thailand,APAC,Southeast Asia,Technology,Phones,130.5903
+Consumer,2011.0,Togo,Africa,Africa,Office Supplies,Appliances,10.83
+Consumer,2011.0,Togo,Africa,Africa,Office Supplies,Labels,5.88
+Consumer,2011.0,Tunisia,Africa,Africa,Office Supplies,Fasteners,7.74
+Consumer,2011.0,Turkey,EMEA,EMEA,Furniture,Bookcases,-228.49200000000002
+Consumer,2011.0,Turkey,EMEA,EMEA,Furniture,Chairs,-3942.744
+Consumer,2011.0,Turkey,EMEA,EMEA,Furniture,Furnishings,-122.49
+Consumer,2011.0,Turkey,EMEA,EMEA,Furniture,Tables,-750.942
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Appliances,-817.7520000000001
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Art,-279.91799999999995
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Binders,-112.182
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Envelopes,-60.245999999999995
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Fasteners,-28.787999999999997
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Labels,-19.962
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Paper,-58.194
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Storage,-844.968
+Consumer,2011.0,Turkey,EMEA,EMEA,Office Supplies,Supplies,-360.34799999999996
+Consumer,2011.0,Turkey,EMEA,EMEA,Technology,Accessories,-140.346
+Consumer,2011.0,Turkey,EMEA,EMEA,Technology,Copiers,-401.90999999999997
+Consumer,2011.0,Turkey,EMEA,EMEA,Technology,Machines,-559.092
+Consumer,2011.0,Turkey,EMEA,EMEA,Technology,Phones,-471.0
+Consumer,2011.0,Turkmenistan,EMEA,EMEA,Furniture,Bookcases,-189.006
+Consumer,2011.0,Turkmenistan,EMEA,EMEA,Office Supplies,Art,-22.98
+Consumer,2011.0,Turkmenistan,EMEA,EMEA,Office Supplies,Binders,-4.872
+Consumer,2011.0,Turkmenistan,EMEA,EMEA,Office Supplies,Storage,-308.496
+Consumer,2011.0,Turkmenistan,EMEA,EMEA,Technology,Machines,-92.556
+Consumer,2011.0,Uganda,Africa,Africa,Office Supplies,Binders,-5.052
+Consumer,2011.0,Uganda,Africa,Africa,Office Supplies,Storage,-43.827
+Consumer,2011.0,Uganda,Africa,Africa,Technology,Accessories,-45.048
+Consumer,2011.0,Uganda,Africa,Africa,Technology,Copiers,-95.45700000000001
+Consumer,2011.0,Uganda,Africa,Africa,Technology,Machines,-326.74199999999996
+Consumer,2011.0,Ukraine,EMEA,EMEA,Furniture,Bookcases,95.13
+Consumer,2011.0,Ukraine,EMEA,EMEA,Furniture,Chairs,12.09
+Consumer,2011.0,Ukraine,EMEA,EMEA,Furniture,Furnishings,67.65
+Consumer,2011.0,Ukraine,EMEA,EMEA,Furniture,Tables,384.81
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Art,12.45
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Binders,25.92
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Envelopes,42.72
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Fasteners,49.230000000000004
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Labels,4.5
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Storage,992.79
+Consumer,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Supplies,3.5999999999999996
+Consumer,2011.0,Ukraine,EMEA,EMEA,Technology,Accessories,264.6
+Consumer,2011.0,Ukraine,EMEA,EMEA,Technology,Copiers,262.68
+Consumer,2011.0,Ukraine,EMEA,EMEA,Technology,Machines,95.34
+Consumer,2011.0,Ukraine,EMEA,EMEA,Technology,Phones,314.15999999999997
+Consumer,2011.0,United Arab Emirates,EMEA,EMEA,Office Supplies,Storage,-157.086
+Consumer,2011.0,United Arab Emirates,EMEA,EMEA,Technology,Machines,-88.992
+Consumer,2011.0,United Kingdom,EU,North,Furniture,Bookcases,2615.361
+Consumer,2011.0,United Kingdom,EU,North,Furniture,Chairs,69.102
+Consumer,2011.0,United Kingdom,EU,North,Furniture,Furnishings,-91.68599999999999
+Consumer,2011.0,United Kingdom,EU,North,Furniture,Tables,686.4
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Appliances,339.93600000000004
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Art,287.553
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Binders,253.70399999999995
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Envelopes,90.495
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Fasteners,31.326
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Labels,48.87
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Paper,221.88
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Storage,558.216
+Consumer,2011.0,United Kingdom,EU,North,Office Supplies,Supplies,136.185
+Consumer,2011.0,United Kingdom,EU,North,Technology,Accessories,-173.76600000000002
+Consumer,2011.0,United Kingdom,EU,North,Technology,Copiers,1290.0
+Consumer,2011.0,United Kingdom,EU,North,Technology,Machines,804.81
+Consumer,2011.0,United Kingdom,EU,North,Technology,Phones,2651.703
+Consumer,2011.0,United States,US,West,Furniture,Bookcases,-654.3065
+Consumer,2011.0,United States,US,East,Furniture,Chairs,3488.9716000000003
+Consumer,2011.0,United States,US,East,Furniture,Furnishings,820.8868
+Consumer,2011.0,United States,US,South,Furniture,Tables,-2019.7348
+Consumer,2011.0,United States,US,West,Office Supplies,Appliances,454.41170000000005
+Consumer,2011.0,United States,US,West,Office Supplies,Art,698.2742000000001
+Consumer,2011.0,United States,US,South,Office Supplies,Binders,2320.713399999999
+Consumer,2011.0,United States,US,Central,Office Supplies,Envelopes,828.2824000000002
+Consumer,2011.0,United States,US,West,Office Supplies,Fasteners,100.81660000000001
+Consumer,2011.0,United States,US,South,Office Supplies,Labels,466.30339999999995
+Consumer,2011.0,United States,US,East,Office Supplies,Paper,2886.0968000000003
+Consumer,2011.0,United States,US,East,Office Supplies,Storage,1492.5353
+Consumer,2011.0,United States,US,West,Office Supplies,Supplies,347.0746
+Consumer,2011.0,United States,US,West,Technology,Accessories,3056.8097000000002
+Consumer,2011.0,United States,US,East,Technology,Copiers,2502.9528
+Consumer,2011.0,United States,US,Central,Technology,Machines,753.1883000000003
+Consumer,2011.0,United States,US,West,Technology,Phones,6776.5741
+Consumer,2011.0,Venezuela,LATAM,South,Furniture,Tables,-1481.35
+Consumer,2011.0,Venezuela,LATAM,South,Office Supplies,Envelopes,-34.272000000000006
+Consumer,2011.0,Venezuela,LATAM,South,Office Supplies,Fasteners,-8.904
+Consumer,2011.0,Venezuela,LATAM,South,Office Supplies,Labels,-3.504
+Consumer,2011.0,Venezuela,LATAM,South,Office Supplies,Supplies,-14.004
+Consumer,2011.0,Venezuela,LATAM,South,Technology,Accessories,-14.384
+Consumer,2011.0,Venezuela,LATAM,South,Technology,Copiers,-287.80996
+Consumer,2011.0,Venezuela,LATAM,South,Technology,Phones,-306.012
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Furniture,Bookcases,43.122600000000006
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Furniture,Chairs,206.53199999999998
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Furniture,Furnishings,23.2566
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Binders,14.048700000000004
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Envelopes,46.5615
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Labels,36.0504
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Storage,155.26409999999998
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Supplies,10.7109
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Technology,Accessories,-498.0204
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Technology,Copiers,28.7466
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Technology,Machines,-34.905
+Consumer,2011.0,Vietnam,APAC,Southeast Asia,Technology,Phones,43.1922
+Consumer,2011.0,Yemen,EMEA,EMEA,Office Supplies,Storage,-88.641
+Consumer,2011.0,Zambia,Africa,Africa,Office Supplies,Art,95.76
+Consumer,2011.0,Zambia,Africa,Africa,Office Supplies,Fasteners,4.17
+Consumer,2011.0,Zambia,Africa,Africa,Office Supplies,Storage,23.97
+Consumer,2011.0,Zambia,Africa,Africa,Technology,Accessories,6.12
+Consumer,2011.0,Zambia,Africa,Africa,Technology,Copiers,261.18
+Consumer,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Art,-96.09
+Consumer,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Envelopes,-19.458
+Consumer,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Paper,-31.008
+Consumer,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Storage,-40.401
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Art,90.81
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Binders,39.27
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Envelopes,85.5
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Labels,1.14
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Paper,8.28
+Corporate,2011.0,Afghanistan,APAC,Central Asia,Technology,Copiers,7.05
+Corporate,2011.0,Albania,EMEA,EMEA,Office Supplies,Art,6.63
+Corporate,2011.0,Albania,EMEA,EMEA,Office Supplies,Binders,0.0
+Corporate,2011.0,Albania,EMEA,EMEA,Office Supplies,Labels,2.01
+Corporate,2011.0,Albania,EMEA,EMEA,Technology,Machines,258.9
+Corporate,2011.0,Algeria,Africa,Africa,Office Supplies,Appliances,61.71
+Corporate,2011.0,Algeria,Africa,Africa,Office Supplies,Art,14.58
+Corporate,2011.0,Algeria,Africa,Africa,Office Supplies,Binders,15.36
+Corporate,2011.0,Algeria,Africa,Africa,Office Supplies,Envelopes,7.17
+Corporate,2011.0,Algeria,Africa,Africa,Office Supplies,Labels,4.08
+Corporate,2011.0,Algeria,Africa,Africa,Technology,Machines,349.56
+Corporate,2011.0,Angola,Africa,Africa,Office Supplies,Labels,11.04
+Corporate,2011.0,Angola,Africa,Africa,Office Supplies,Storage,92.88
+Corporate,2011.0,Angola,Africa,Africa,Technology,Accessories,12.72
+Corporate,2011.0,Argentina,LATAM,South,Furniture,Bookcases,-66.24
+Corporate,2011.0,Argentina,LATAM,South,Office Supplies,Appliances,-211.208
+Corporate,2011.0,Argentina,LATAM,South,Office Supplies,Art,-165.744
+Corporate,2011.0,Argentina,LATAM,South,Office Supplies,Binders,-14.796
+Corporate,2011.0,Argentina,LATAM,South,Technology,Machines,-11.888
+Corporate,2011.0,Argentina,LATAM,South,Technology,Phones,-16.216
+Corporate,2011.0,Australia,APAC,Oceania,Furniture,Bookcases,1278.519
+Corporate,2011.0,Australia,APAC,Oceania,Furniture,Chairs,1599.414
+Corporate,2011.0,Australia,APAC,Oceania,Furniture,Furnishings,179.25000000000003
+Corporate,2011.0,Australia,APAC,Oceania,Furniture,Tables,-1188.288
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Appliances,833.433
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Art,158.60999999999999
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Binders,110.007
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Envelopes,13.832999999999998
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Fasteners,13.482000000000001
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Labels,94.737
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Paper,111.126
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Storage,687.423
+Corporate,2011.0,Australia,APAC,Oceania,Office Supplies,Supplies,147.45
+Corporate,2011.0,Australia,APAC,Oceania,Technology,Accessories,215.60099999999997
+Corporate,2011.0,Australia,APAC,Oceania,Technology,Copiers,289.16999999999996
+Corporate,2011.0,Australia,APAC,Oceania,Technology,Machines,186.75300000000001
+Corporate,2011.0,Australia,APAC,Oceania,Technology,Phones,1330.605
+Corporate,2011.0,Austria,EU,Central,Furniture,Bookcases,82.8
+Corporate,2011.0,Austria,EU,Central,Furniture,Chairs,120.96000000000001
+Corporate,2011.0,Austria,EU,Central,Furniture,Furnishings,66.36
+Corporate,2011.0,Austria,EU,Central,Office Supplies,Art,87.69
+Corporate,2011.0,Austria,EMEA,EMEA,Office Supplies,Binders,90.06
+Corporate,2011.0,Austria,EMEA,EMEA,Office Supplies,Envelopes,2.52
+Corporate,2011.0,Austria,EU,Central,Office Supplies,Fasteners,69.48
+Corporate,2011.0,Austria,EU,Central,Office Supplies,Labels,11.04
+Corporate,2011.0,Austria,EU,Central,Office Supplies,Paper,1.8
+Corporate,2011.0,Austria,EU,Central,Technology,Accessories,150.15
+Corporate,2011.0,Austria,EU,Central,Technology,Copiers,1230.0900000000001
+Corporate,2011.0,Austria,EMEA,EMEA,Technology,Phones,14.76
+Corporate,2011.0,Azerbaijan,EMEA,EMEA,Furniture,Chairs,50.01
+Corporate,2011.0,Azerbaijan,EMEA,EMEA,Office Supplies,Binders,5.82
+Corporate,2011.0,Azerbaijan,EMEA,EMEA,Office Supplies,Envelopes,12.12
+Corporate,2011.0,Azerbaijan,EMEA,EMEA,Technology,Accessories,12.42
+Corporate,2011.0,Azerbaijan,EMEA,EMEA,Technology,Phones,66.18
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Furniture,Bookcases,12.54
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Furniture,Chairs,791.55
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Furniture,Furnishings,4.74
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Appliances,527.19
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Art,97.14
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Binders,66.45
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Labels,50.36999999999999
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Storage,65.97
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Office Supplies,Supplies,92.07000000000001
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Technology,Accessories,523.08
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Technology,Copiers,893.94
+Corporate,2011.0,Bangladesh,APAC,Central Asia,Technology,Phones,54.66
+Corporate,2011.0,Barbados,LATAM,Caribbean,Furniture,Chairs,31.64
+Corporate,2011.0,Barbados,LATAM,Caribbean,Technology,Copiers,275.65992
+Corporate,2011.0,Belarus,EMEA,EMEA,Office Supplies,Binders,11.82
+Corporate,2011.0,Belgium,EU,Central,Furniture,Bookcases,103.8
+Corporate,2011.0,Belgium,EU,Central,Office Supplies,Binders,92.79
+Corporate,2011.0,Belgium,EU,Central,Office Supplies,Fasteners,25.92
+Corporate,2011.0,Belgium,EU,Central,Office Supplies,Storage,161.16
+Corporate,2011.0,Belgium,EU,Central,Office Supplies,Supplies,87.84
+Corporate,2011.0,Belgium,EU,Central,Technology,Copiers,57.66
+Corporate,2011.0,Benin,Africa,Africa,Office Supplies,Binders,2.76
+Corporate,2011.0,Benin,Africa,Africa,Office Supplies,Supplies,16.23
+Corporate,2011.0,Benin,Africa,Africa,Technology,Accessories,4.14
+Corporate,2011.0,Benin,Africa,Africa,Technology,Copiers,243.3
+Corporate,2011.0,Bolivia,LATAM,South,Office Supplies,Appliances,126.16
+Corporate,2011.0,Bosnia and Herzegovina,EMEA,EMEA,Furniture,Furnishings,108.24
+Corporate,2011.0,Brazil,LATAM,South,Furniture,Bookcases,452.38
+Corporate,2011.0,Brazil,LATAM,South,Furniture,Chairs,206.96800000000005
+Corporate,2011.0,Brazil,LATAM,South,Furniture,Furnishings,87.04
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Appliances,819.6800000000001
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Art,49.08
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Binders,53.540000000000006
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Envelopes,-33.847999999999985
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Fasteners,11.908
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Labels,21.560000000000002
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Paper,18.503999999999998
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Storage,16.799999999999997
+Corporate,2011.0,Brazil,LATAM,South,Office Supplies,Supplies,-30.06
+Corporate,2011.0,Brazil,LATAM,South,Technology,Accessories,-196.316
+Corporate,2011.0,Brazil,LATAM,South,Technology,Copiers,238.94044
+Corporate,2011.0,Brazil,LATAM,South,Technology,Phones,-1455.78
+Corporate,2011.0,Cameroon,Africa,Africa,Furniture,Bookcases,212.52
+Corporate,2011.0,Cameroon,Africa,Africa,Office Supplies,Binders,3.51
+Corporate,2011.0,Cameroon,Africa,Africa,Office Supplies,Labels,1.65
+Corporate,2011.0,Cameroon,Africa,Africa,Office Supplies,Storage,99.81
+Corporate,2011.0,Cameroon,Africa,Africa,Technology,Accessories,5.7
+Corporate,2011.0,Cameroon,Africa,Africa,Technology,Phones,13.65
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Appliances,400.86
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Art,63.629999999999995
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Binders,13.440000000000001
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Envelopes,29.7
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Fasteners,12.21
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Labels,3.36
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Paper,11.4
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Storage,15.33
+Corporate,2011.0,Canada,Canada,Canada,Office Supplies,Supplies,10.92
+Corporate,2011.0,Canada,Canada,Canada,Technology,Accessories,25.89
+Corporate,2011.0,Canada,Canada,Canada,Technology,Copiers,93.0
+Corporate,2011.0,Canada,Canada,Canada,Technology,Phones,6.87
+Corporate,2011.0,Central African Republic,Africa,Africa,Office Supplies,Supplies,20.58
+Corporate,2011.0,Chile,LATAM,South,Furniture,Chairs,217.34
+Corporate,2011.0,Chile,LATAM,South,Office Supplies,Art,22.68
+Corporate,2011.0,Chile,LATAM,South,Office Supplies,Storage,45.68
+Corporate,2011.0,China,APAC,North Asia,Furniture,Bookcases,875.2800000000001
+Corporate,2011.0,China,APAC,North Asia,Furniture,Chairs,2294.7599999999998
+Corporate,2011.0,China,APAC,North Asia,Furniture,Furnishings,404.37
+Corporate,2011.0,China,APAC,North Asia,Furniture,Tables,-1609.0770000000002
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Appliances,975.48
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Art,308.60999999999996
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Binders,241.08
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Envelopes,384.21
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Fasteners,72.27
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Labels,61.41
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Paper,44.43
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Storage,407.40000000000003
+Corporate,2011.0,China,APAC,North Asia,Office Supplies,Supplies,290.565
+Corporate,2011.0,China,APAC,North Asia,Technology,Accessories,280.11
+Corporate,2011.0,China,APAC,North Asia,Technology,Copiers,2524.29
+Corporate,2011.0,China,APAC,North Asia,Technology,Machines,265.73999999999995
+Corporate,2011.0,China,APAC,North Asia,Technology,Phones,237.51
+Corporate,2011.0,Colombia,LATAM,South,Furniture,Bookcases,3.9
+Corporate,2011.0,Colombia,LATAM,South,Furniture,Chairs,0.0
+Corporate,2011.0,Colombia,LATAM,South,Office Supplies,Envelopes,7.44
+Corporate,2011.0,Colombia,LATAM,South,Office Supplies,Fasteners,3.44
+Corporate,2011.0,Colombia,LATAM,South,Technology,Accessories,29.119999999999997
+Corporate,2011.0,Colombia,LATAM,South,Technology,Copiers,147.15612
+Corporate,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Labels,1.77
+Corporate,2011.0,Cuba,LATAM,Caribbean,Furniture,Bookcases,107.96
+Corporate,2011.0,Cuba,LATAM,Caribbean,Furniture,Chairs,446.74
+Corporate,2011.0,Cuba,LATAM,Caribbean,Furniture,Furnishings,50.28
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Appliances,31.1
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Art,51.2
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Binders,57.900000000000006
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Envelopes,10.440000000000001
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Fasteners,11.88
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Labels,14.38
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Paper,19.919999999999998
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Storage,70.12
+Corporate,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Supplies,5.6
+Corporate,2011.0,Cuba,LATAM,Caribbean,Technology,Accessories,325.46000000000004
+Corporate,2011.0,Cuba,LATAM,Caribbean,Technology,Copiers,371.21668
+Corporate,2011.0,Cuba,LATAM,Caribbean,Technology,Phones,219.24
+Corporate,2011.0,Czech Republic,EMEA,EMEA,Office Supplies,Storage,1.98
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Art,203.94
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Binders,5.01
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Envelopes,13.44
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Labels,19.08
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Paper,73.53
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Storage,53.07
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Supplies,25.32
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Accessories,112.62
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Copiers,94.92
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Machines,43.65
+Corporate,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Phones,1165.23
+Corporate,2011.0,Denmark,EU,North,Furniture,Chairs,-77.895
+Corporate,2011.0,Denmark,EU,North,Technology,Phones,-191.16
+Corporate,2011.0,Djibouti,Africa,Africa,Office Supplies,Art,63.36
+Corporate,2011.0,Djibouti,Africa,Africa,Office Supplies,Binders,4.65
+Corporate,2011.0,Djibouti,Africa,Africa,Office Supplies,Storage,62.97
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Bookcases,-484.508
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Chairs,149.412
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Furnishings,-33.07
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Tables,-857.37
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Appliances,193.18399999999994
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Art,0.12799999999999834
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Binders,-7.42
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Envelopes,-4.104
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Fasteners,1.748
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Labels,1.924
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Paper,10.636
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Storage,6.52
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Supplies,22.104
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Accessories,188.272
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Copiers,-80.7954
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Machines,-622.848
+Corporate,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Phones,-186.05200000000002
+Corporate,2011.0,Ecuador,LATAM,South,Office Supplies,Storage,8.2
+Corporate,2011.0,Egypt,Africa,Africa,Furniture,Bookcases,64.14
+Corporate,2011.0,Egypt,Africa,Africa,Furniture,Chairs,35.1
+Corporate,2011.0,Egypt,Africa,Africa,Furniture,Furnishings,4.08
+Corporate,2011.0,Egypt,Africa,Africa,Office Supplies,Art,23.97
+Corporate,2011.0,Egypt,Africa,Africa,Office Supplies,Binders,7.199999999999999
+Corporate,2011.0,Egypt,Africa,Africa,Office Supplies,Envelopes,94.71000000000001
+Corporate,2011.0,Egypt,Africa,Africa,Office Supplies,Storage,75.06
+Corporate,2011.0,Egypt,Africa,Africa,Technology,Phones,46.47
+Corporate,2011.0,El Salvador,LATAM,Central,Furniture,Bookcases,761.8800000000001
+Corporate,2011.0,El Salvador,LATAM,Central,Furniture,Chairs,81.6
+Corporate,2011.0,El Salvador,LATAM,Central,Furniture,Furnishings,6.7
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Appliances,140.92000000000002
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Art,75.68
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Binders,10.66
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Fasteners,19.92
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Labels,23.28
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Paper,113.94
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Storage,185.74
+Corporate,2011.0,El Salvador,LATAM,Central,Office Supplies,Supplies,23.4
+Corporate,2011.0,El Salvador,LATAM,Central,Technology,Accessories,257.6
+Corporate,2011.0,El Salvador,LATAM,Central,Technology,Copiers,336.99184
+Corporate,2011.0,El Salvador,LATAM,Central,Technology,Phones,225.26
+Corporate,2011.0,Estonia,EMEA,EMEA,Furniture,Chairs,63.87
+Corporate,2011.0,Estonia,EMEA,EMEA,Office Supplies,Appliances,61.68
+Corporate,2011.0,Estonia,EMEA,EMEA,Technology,Phones,286.56
+Corporate,2011.0,Finland,EU,North,Furniture,Chairs,29.4
+Corporate,2011.0,Finland,EU,North,Furniture,Furnishings,14.58
+Corporate,2011.0,Finland,EU,North,Office Supplies,Appliances,8.16
+Corporate,2011.0,Finland,EU,North,Office Supplies,Art,81.6
+Corporate,2011.0,Finland,EU,North,Office Supplies,Labels,3.24
+Corporate,2011.0,Finland,EU,North,Office Supplies,Paper,32.76
+Corporate,2011.0,Finland,EU,North,Office Supplies,Supplies,111.9
+Corporate,2011.0,France,EU,Central,Furniture,Bookcases,582.972
+Corporate,2011.0,France,EU,Central,Furniture,Chairs,2840.7540000000004
+Corporate,2011.0,France,EU,Central,Furniture,Furnishings,85.32
+Corporate,2011.0,France,EU,Central,Office Supplies,Appliances,504.40500000000003
+Corporate,2011.0,France,EU,Central,Office Supplies,Art,504.09000000000003
+Corporate,2011.0,France,EU,Central,Office Supplies,Binders,440.0849999999999
+Corporate,2011.0,France,EU,Central,Office Supplies,Envelopes,48.03
+Corporate,2011.0,France,EU,Central,Office Supplies,Fasteners,81.89999999999999
+Corporate,2011.0,France,EU,Central,Office Supplies,Labels,49.71
+Corporate,2011.0,France,EU,Central,Office Supplies,Paper,136.83
+Corporate,2011.0,France,EU,Central,Office Supplies,Storage,480.24899999999997
+Corporate,2011.0,France,EU,Central,Office Supplies,Supplies,94.05000000000001
+Corporate,2011.0,France,EU,Central,Technology,Accessories,210.09
+Corporate,2011.0,France,EU,Central,Technology,Copiers,47.513999999999996
+Corporate,2011.0,France,EU,Central,Technology,Machines,212.48100000000002
+Corporate,2011.0,France,EU,Central,Technology,Phones,968.9400000000003
+Corporate,2011.0,Georgia,EMEA,EMEA,Office Supplies,Binders,11.7
+Corporate,2011.0,Georgia,EMEA,EMEA,Office Supplies,Supplies,20.34
+Corporate,2011.0,Georgia,EMEA,EMEA,Technology,Phones,30.72
+Corporate,2011.0,Germany,EU,Central,Furniture,Bookcases,1378.395
+Corporate,2011.0,Germany,EU,Central,Furniture,Chairs,236.745
+Corporate,2011.0,Germany,EU,Central,Furniture,Furnishings,178.404
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Appliances,274.401
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Art,544.11
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Binders,123.99900000000002
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Envelopes,9.66
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Fasteners,8.028
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Labels,93.3
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Paper,20.895000000000003
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Storage,651.222
+Corporate,2011.0,Germany,EU,Central,Office Supplies,Supplies,206.04
+Corporate,2011.0,Germany,EU,Central,Technology,Accessories,323.625
+Corporate,2011.0,Germany,EU,Central,Technology,Copiers,217.96800000000002
+Corporate,2011.0,Germany,EU,Central,Technology,Machines,400.68
+Corporate,2011.0,Germany,EU,Central,Technology,Phones,1007.1600000000002
+Corporate,2011.0,Ghana,Africa,Africa,Technology,Copiers,135.24
+Corporate,2011.0,Guatemala,LATAM,Central,Furniture,Furnishings,14.92
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Art,90.88
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Binders,26.099999999999998
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Envelopes,6.6
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Fasteners,28.639999999999997
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Labels,10.36
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Storage,96.28
+Corporate,2011.0,Guatemala,LATAM,Central,Office Supplies,Supplies,2.46
+Corporate,2011.0,Guatemala,LATAM,Central,Technology,Copiers,78.4038
+Corporate,2011.0,Guatemala,LATAM,Central,Technology,Phones,275.7
+Corporate,2011.0,Haiti,LATAM,Caribbean,Furniture,Chairs,-35.268
+Corporate,2011.0,Haiti,LATAM,Caribbean,Furniture,Furnishings,-183.336
+Corporate,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Art,-10.272
+Corporate,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Envelopes,-5.46
+Corporate,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Fasteners,-9.584
+Corporate,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Storage,-8.984
+Corporate,2011.0,Honduras,LATAM,Central,Furniture,Bookcases,-118.132
+Corporate,2011.0,Honduras,LATAM,Central,Furniture,Chairs,-370.96000000000004
+Corporate,2011.0,Honduras,LATAM,Central,Furniture,Furnishings,-8.508
+Corporate,2011.0,Honduras,LATAM,Central,Furniture,Tables,-334.552
+Corporate,2011.0,Honduras,LATAM,Central,Office Supplies,Appliances,9.912
+Corporate,2011.0,Honduras,LATAM,Central,Office Supplies,Art,-34.08
+Corporate,2011.0,Honduras,LATAM,Central,Office Supplies,Binders,-20.828
+Corporate,2011.0,Honduras,LATAM,Central,Office Supplies,Storage,-20.432
+Corporate,2011.0,Honduras,LATAM,Central,Technology,Accessories,-277.396
+Corporate,2011.0,Honduras,LATAM,Central,Technology,Copiers,-119.8748
+Corporate,2011.0,Honduras,LATAM,Central,Technology,Machines,-312.76
+Corporate,2011.0,Honduras,LATAM,Central,Technology,Phones,-89.552
+Corporate,2011.0,Hungary,EMEA,EMEA,Furniture,Bookcases,159.87
+Corporate,2011.0,Hungary,EMEA,EMEA,Office Supplies,Art,56.79
+Corporate,2011.0,Hungary,EMEA,EMEA,Office Supplies,Binders,2.4
+Corporate,2011.0,Hungary,EMEA,EMEA,Office Supplies,Envelopes,1.65
+Corporate,2011.0,Hungary,EMEA,EMEA,Office Supplies,Paper,63.9
+Corporate,2011.0,Hungary,EMEA,EMEA,Technology,Copiers,276.6
+Corporate,2011.0,Hungary,EMEA,EMEA,Technology,Machines,28.95
+Corporate,2011.0,India,APAC,Central Asia,Furniture,Bookcases,905.25
+Corporate,2011.0,India,APAC,Central Asia,Furniture,Chairs,1114.2450000000001
+Corporate,2011.0,India,APAC,Central Asia,Furniture,Furnishings,376.62
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Appliances,581.64
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Art,47.61
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Binders,150.3
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Envelopes,54.269999999999996
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Fasteners,67.23
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Labels,32.22
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Paper,180.96
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Storage,483.65999999999997
+Corporate,2011.0,India,APAC,Central Asia,Office Supplies,Supplies,193.53
+Corporate,2011.0,India,APAC,Central Asia,Technology,Accessories,539.7149999999999
+Corporate,2011.0,India,APAC,Central Asia,Technology,Copiers,1304.79
+Corporate,2011.0,India,APAC,Central Asia,Technology,Machines,355.26
+Corporate,2011.0,India,APAC,Central Asia,Technology,Phones,679.3799999999999
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Bookcases,-5.2002
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Chairs,50.45700000000002
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Furnishings,52.6818
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Tables,-139.5771
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Appliances,576.9102
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Art,-9.484799999999998
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Binders,55.0878
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Envelopes,-63.604800000000004
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Fasteners,-88.8543
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Labels,-55.272000000000006
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Paper,-80.77080000000001
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Storage,169.1685
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Supplies,-108.1962
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Technology,Accessories,-387.54749999999996
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Technology,Copiers,613.8570000000001
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Technology,Machines,12.385800000000007
+Corporate,2011.0,Indonesia,APAC,Southeast Asia,Technology,Phones,164.5437
+Corporate,2011.0,Iran,EMEA,EMEA,Furniture,Bookcases,413.31
+Corporate,2011.0,Iran,EMEA,EMEA,Furniture,Chairs,23.67
+Corporate,2011.0,Iran,EMEA,EMEA,Furniture,Furnishings,19.26
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Art,38.04
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Binders,41.94
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Envelopes,11.219999999999999
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Fasteners,0.66
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Labels,5.07
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Paper,23.64
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Storage,68.75999999999999
+Corporate,2011.0,Iran,EMEA,EMEA,Office Supplies,Supplies,62.94
+Corporate,2011.0,Iran,EMEA,EMEA,Technology,Accessories,42.9
+Corporate,2011.0,Iran,EMEA,EMEA,Technology,Phones,599.55
+Corporate,2011.0,Iraq,EMEA,EMEA,Furniture,Bookcases,22.68
+Corporate,2011.0,Iraq,EMEA,EMEA,Furniture,Chairs,351.03
+Corporate,2011.0,Iraq,EMEA,EMEA,Furniture,Furnishings,23.28
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Art,36.599999999999994
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Binders,21.479999999999997
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Envelopes,17.07
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Fasteners,0.0
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Labels,11.28
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Paper,4.23
+Corporate,2011.0,Iraq,EMEA,EMEA,Office Supplies,Storage,97.41
+Corporate,2011.0,Iraq,EMEA,EMEA,Technology,Copiers,107.4
+Corporate,2011.0,Iraq,EMEA,EMEA,Technology,Machines,222.3
+Corporate,2011.0,Iraq,EMEA,EMEA,Technology,Phones,156.57
+Corporate,2011.0,Ireland,EU,North,Furniture,Bookcases,-247.125
+Corporate,2011.0,Ireland,EU,North,Furniture,Furnishings,-106.02
+Corporate,2011.0,Ireland,EU,North,Office Supplies,Binders,-9.57
+Corporate,2011.0,Ireland,EU,North,Office Supplies,Envelopes,-5.58
+Corporate,2011.0,Ireland,EU,North,Office Supplies,Supplies,-37.2
+Corporate,2011.0,Israel,EMEA,EMEA,Technology,Accessories,2.85
+Corporate,2011.0,Italy,EU,South,Furniture,Chairs,-447.63599999999997
+Corporate,2011.0,Italy,EU,South,Furniture,Furnishings,73.94999999999999
+Corporate,2011.0,Italy,EU,South,Furniture,Tables,-630.885
+Corporate,2011.0,Italy,EU,South,Office Supplies,Appliances,23.94
+Corporate,2011.0,Italy,EU,South,Office Supplies,Art,343.32
+Corporate,2011.0,Italy,EU,South,Office Supplies,Binders,183.87000000000003
+Corporate,2011.0,Italy,EU,South,Office Supplies,Envelopes,29.4
+Corporate,2011.0,Italy,EU,South,Office Supplies,Fasteners,93.0
+Corporate,2011.0,Italy,EU,South,Office Supplies,Labels,27.990000000000002
+Corporate,2011.0,Italy,EU,South,Office Supplies,Paper,9.6
+Corporate,2011.0,Italy,EU,South,Office Supplies,Storage,-917.646
+Corporate,2011.0,Italy,EU,South,Office Supplies,Supplies,48.6
+Corporate,2011.0,Italy,EU,South,Technology,Accessories,657.8399999999999
+Corporate,2011.0,Italy,EU,South,Technology,Machines,35.856
+Corporate,2011.0,Italy,EU,South,Technology,Phones,-1350.7979999999998
+Corporate,2011.0,Jamaica,LATAM,Caribbean,Office Supplies,Binders,0.2
+Corporate,2011.0,Japan,APAC,North Asia,Furniture,Furnishings,83.76
+Corporate,2011.0,Japan,APAC,North Asia,Office Supplies,Appliances,217.44
+Corporate,2011.0,Japan,APAC,North Asia,Office Supplies,Binders,63.3
+Corporate,2011.0,Japan,APAC,North Asia,Office Supplies,Envelopes,22.32
+Corporate,2011.0,Japan,APAC,North Asia,Office Supplies,Storage,31.68
+Corporate,2011.0,Japan,APAC,North Asia,Office Supplies,Supplies,88.02000000000001
+Corporate,2011.0,Japan,APAC,North Asia,Technology,Phones,2939.31
+Corporate,2011.0,Kazakhstan,EMEA,EMEA,Furniture,Bookcases,-104.154
+Corporate,2011.0,Kazakhstan,EMEA,EMEA,Furniture,Chairs,-448.92
+Corporate,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Art,-52.56
+Corporate,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Storage,-7.671
+Corporate,2011.0,Kazakhstan,EMEA,EMEA,Technology,Phones,-107.148
+Corporate,2011.0,Kenya,Africa,Africa,Furniture,Bookcases,20.76
+Corporate,2011.0,Kenya,Africa,Africa,Office Supplies,Appliances,0.66
+Corporate,2011.0,Kenya,Africa,Africa,Office Supplies,Binders,4.98
+Corporate,2011.0,Kenya,Africa,Africa,Office Supplies,Fasteners,14.07
+Corporate,2011.0,Kenya,Africa,Africa,Office Supplies,Storage,12.36
+Corporate,2011.0,Kenya,Africa,Africa,Technology,Accessories,406.56
+Corporate,2011.0,Lebanon,EMEA,EMEA,Furniture,Furnishings,7.38
+Corporate,2011.0,Lebanon,EMEA,EMEA,Technology,Copiers,71.46
+Corporate,2011.0,Lesotho,Africa,Africa,Office Supplies,Envelopes,24.36
+Corporate,2011.0,Lesotho,Africa,Africa,Office Supplies,Storage,55.17
+Corporate,2011.0,Lesotho,Africa,Africa,Technology,Accessories,48.72
+Corporate,2011.0,Lesotho,Africa,Africa,Technology,Phones,814.2
+Corporate,2011.0,Liberia,Africa,Africa,Office Supplies,Art,29.28
+Corporate,2011.0,Liberia,Africa,Africa,Office Supplies,Storage,110.34
+Corporate,2011.0,Libya,Africa,Africa,Office Supplies,Binders,38.64
+Corporate,2011.0,Libya,Africa,Africa,Office Supplies,Paper,5.04
+Corporate,2011.0,Lithuania,EMEA,EMEA,Furniture,Bookcases,-110.718
+Corporate,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Art,-91.92
+Corporate,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Storage,-3.561
+Corporate,2011.0,Lithuania,EMEA,EMEA,Technology,Copiers,-193.818
+Corporate,2011.0,Madagascar,Africa,Africa,Office Supplies,Labels,0.96
+Corporate,2011.0,Madagascar,Africa,Africa,Technology,Phones,41.79
+Corporate,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Art,67.86
+Corporate,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Fasteners,0.6
+Corporate,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Storage,279.12
+Corporate,2011.0,Malaysia,APAC,Southeast Asia,Technology,Accessories,93.33
+Corporate,2011.0,Mali,Africa,Africa,Technology,Accessories,8.85
+Corporate,2011.0,Mexico,LATAM,North,Furniture,Bookcases,605.012
+Corporate,2011.0,Mexico,LATAM,North,Furniture,Chairs,975.4359999999999
+Corporate,2011.0,Mexico,LATAM,North,Furniture,Furnishings,-64.76
+Corporate,2011.0,Mexico,LATAM,North,Furniture,Tables,-62.532000000000025
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Appliances,147.82
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Art,191.68
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Binders,120.52000000000001
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Envelopes,194.42000000000002
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Fasteners,35.58
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Labels,42.28
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Paper,171.28
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Storage,320.16
+Corporate,2011.0,Mexico,LATAM,North,Office Supplies,Supplies,351.3
+Corporate,2011.0,Mexico,LATAM,North,Technology,Accessories,625.64
+Corporate,2011.0,Mexico,LATAM,North,Technology,Copiers,1931.6355999999998
+Corporate,2011.0,Mexico,LATAM,North,Technology,Phones,247.88
+Corporate,2011.0,Mongolia,EMEA,EMEA,Furniture,Chairs,55.38
+Corporate,2011.0,Mongolia,EMEA,EMEA,Office Supplies,Envelopes,2.43
+Corporate,2011.0,Mongolia,EMEA,EMEA,Office Supplies,Storage,211.5
+Corporate,2011.0,Mongolia,EMEA,EMEA,Office Supplies,Supplies,12.66
+Corporate,2011.0,Mongolia,EMEA,EMEA,Technology,Accessories,68.76
+Corporate,2011.0,Mongolia,EMEA,EMEA,Technology,Phones,77.04
+Corporate,2011.0,Morocco,Africa,Africa,Furniture,Chairs,38.25
+Corporate,2011.0,Morocco,Africa,Africa,Furniture,Furnishings,8.79
+Corporate,2011.0,Morocco,Africa,Africa,Office Supplies,Envelopes,24.389999999999997
+Corporate,2011.0,Morocco,Africa,Africa,Office Supplies,Paper,4.8
+Corporate,2011.0,Morocco,Africa,Africa,Technology,Copiers,741.6
+Corporate,2011.0,Morocco,Africa,Africa,Technology,Machines,23.19
+Corporate,2011.0,Mozambique,Africa,Africa,Office Supplies,Binders,1.65
+Corporate,2011.0,Mozambique,Africa,Africa,Office Supplies,Supplies,1.14
+Corporate,2011.0,Mozambique,Africa,Africa,Technology,Machines,131.91
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Furniture,Bookcases,-10.437
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Furniture,Furnishings,-15.6114
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Art,-11.8152
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Binders,-0.4140000000000015
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Envelopes,-7.0065
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Office Supplies,Supplies,-5.6508
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Technology,Copiers,-106.083
+Corporate,2011.0,Myanmar (Burma),APAC,Southeast Asia,Technology,Machines,63.0819
+Corporate,2011.0,Netherlands,EU,Central,Furniture,Furnishings,94.90200000000002
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Appliances,-105.39
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Binders,-24.33
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Envelopes,-54.36
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Paper,-28.904999999999998
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Storage,-4.92
+Corporate,2011.0,Netherlands,EU,Central,Office Supplies,Supplies,-52.38
+Corporate,2011.0,Netherlands,EU,Central,Technology,Accessories,-357.075
+Corporate,2011.0,Netherlands,EU,Central,Technology,Machines,-264.93
+Corporate,2011.0,New Zealand,APAC,Oceania,Furniture,Bookcases,191.7
+Corporate,2011.0,New Zealand,APAC,Oceania,Furniture,Chairs,-111.456
+Corporate,2011.0,New Zealand,APAC,Oceania,Furniture,Furnishings,48.432
+Corporate,2011.0,New Zealand,APAC,Oceania,Furniture,Tables,762.0959999999999
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Appliances,-32.088
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Art,174.44400000000002
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Binders,-143.13600000000002
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Envelopes,58.032
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Fasteners,-11.52
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Labels,5.555999999999999
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Paper,-16.248
+Corporate,2011.0,New Zealand,APAC,Oceania,Office Supplies,Storage,42.156
+Corporate,2011.0,New Zealand,APAC,Oceania,Technology,Accessories,474.108
+Corporate,2011.0,New Zealand,APAC,Oceania,Technology,Copiers,262.2
+Corporate,2011.0,New Zealand,APAC,Oceania,Technology,Phones,94.17599999999999
+Corporate,2011.0,Nicaragua,LATAM,Central,Furniture,Bookcases,1015.8199999999999
+Corporate,2011.0,Nicaragua,LATAM,Central,Furniture,Chairs,121.6
+Corporate,2011.0,Nicaragua,LATAM,Central,Furniture,Furnishings,230.64
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Art,7.16
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Binders,22.06
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Envelopes,159.36
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Fasteners,0.36
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Labels,22.12
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Paper,11.52
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Storage,379.26000000000005
+Corporate,2011.0,Nicaragua,LATAM,Central,Office Supplies,Supplies,43.44
+Corporate,2011.0,Nicaragua,LATAM,Central,Technology,Accessories,122.03999999999999
+Corporate,2011.0,Nicaragua,LATAM,Central,Technology,Copiers,202.89351999999997
+Corporate,2011.0,Nicaragua,LATAM,Central,Technology,Machines,397.79999999999995
+Corporate,2011.0,Nicaragua,LATAM,Central,Technology,Phones,442.2
+Corporate,2011.0,Nigeria,Africa,Africa,Furniture,Bookcases,-74.325
+Corporate,2011.0,Nigeria,Africa,Africa,Furniture,Chairs,-650.7539999999999
+Corporate,2011.0,Nigeria,Africa,Africa,Furniture,Furnishings,-318.369
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Appliances,-118.45500000000001
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Art,-86.28
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Binders,-164.08200000000002
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Envelopes,-21.483
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Fasteners,-15.434999999999999
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Labels,-21.648
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Paper,-7.398
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Storage,-295.104
+Corporate,2011.0,Nigeria,Africa,Africa,Office Supplies,Supplies,-53.696999999999996
+Corporate,2011.0,Nigeria,Africa,Africa,Technology,Accessories,-220.548
+Corporate,2011.0,Nigeria,Africa,Africa,Technology,Copiers,-983.4480000000001
+Corporate,2011.0,Nigeria,Africa,Africa,Technology,Machines,-486.50100000000003
+Corporate,2011.0,Nigeria,Africa,Africa,Technology,Phones,-183.39
+Corporate,2011.0,Norway,EU,North,Office Supplies,Storage,119.04
+Corporate,2011.0,Pakistan,APAC,Central Asia,Furniture,Bookcases,-59.49
+Corporate,2011.0,Pakistan,APAC,Central Asia,Furniture,Chairs,-153.876
+Corporate,2011.0,Pakistan,APAC,Central Asia,Furniture,Tables,-488.772
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Appliances,-44.19
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Binders,-1.5
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Envelopes,-69.75
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Fasteners,-27.0
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Labels,-11.52
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Storage,-73.65
+Corporate,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Supplies,-14.58
+Corporate,2011.0,Pakistan,APAC,Central Asia,Technology,Accessories,-83.88
+Corporate,2011.0,Pakistan,APAC,Central Asia,Technology,Copiers,-498.42
+Corporate,2011.0,Pakistan,APAC,Central Asia,Technology,Machines,-27.03
+Corporate,2011.0,Pakistan,APAC,Central Asia,Technology,Phones,-25.8
+Corporate,2011.0,Panama,LATAM,Central,Furniture,Bookcases,-156.88
+Corporate,2011.0,Panama,LATAM,Central,Furniture,Furnishings,23.087999999999997
+Corporate,2011.0,Panama,LATAM,Central,Office Supplies,Appliances,-24.488
+Corporate,2011.0,Panama,LATAM,Central,Office Supplies,Binders,-5.896
+Corporate,2011.0,Panama,LATAM,Central,Office Supplies,Envelopes,-49.392
+Corporate,2011.0,Panama,LATAM,Central,Office Supplies,Fasteners,-18.572
+Corporate,2011.0,Panama,LATAM,Central,Office Supplies,Labels,-4.96
+Corporate,2011.0,Panama,LATAM,Central,Technology,Accessories,-51.176
+Corporate,2011.0,Panama,LATAM,Central,Technology,Copiers,-137.33808
+Corporate,2011.0,Panama,LATAM,Central,Technology,Phones,-574.8480000000001
+Corporate,2011.0,Peru,LATAM,South,Furniture,Chairs,-68.96400000000001
+Corporate,2011.0,Peru,LATAM,South,Furniture,Furnishings,-1.688
+Corporate,2011.0,Peru,LATAM,South,Furniture,Tables,-218.84
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Art,0.74
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Binders,-36.904
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Envelopes,-4.836
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Fasteners,-5.28
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Storage,-48.6
+Corporate,2011.0,Peru,LATAM,South,Office Supplies,Supplies,-16.368
+Corporate,2011.0,Peru,LATAM,South,Technology,Accessories,-53.376
+Corporate,2011.0,Peru,LATAM,South,Technology,Phones,-40.288
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Furniture,Chairs,411.33
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Furniture,Furnishings,-29.1
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Appliances,-174.87
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Envelopes,-2.604
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Fasteners,-26.674500000000002
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Labels,-9.4545
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Paper,-59.894999999999996
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Storage,5.742000000000001
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Supplies,-3.036
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Technology,Accessories,-13.446
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Technology,Copiers,-78.14699999999999
+Corporate,2011.0,Philippines,APAC,Southeast Asia,Technology,Phones,66.2625
+Corporate,2011.0,Poland,EMEA,EMEA,Furniture,Bookcases,714.96
+Corporate,2011.0,Poland,EMEA,EMEA,Furniture,Furnishings,98.91
+Corporate,2011.0,Poland,EMEA,EMEA,Office Supplies,Binders,25.8
+Corporate,2011.0,Poland,EMEA,EMEA,Office Supplies,Envelopes,8.94
+Corporate,2011.0,Poland,EMEA,EMEA,Office Supplies,Labels,2.97
+Corporate,2011.0,Poland,EMEA,EMEA,Office Supplies,Paper,5.7
+Corporate,2011.0,Poland,EMEA,EMEA,Office Supplies,Supplies,0.0
+Corporate,2011.0,Poland,EMEA,EMEA,Technology,Machines,29.88
+Corporate,2011.0,Portugal,EU,South,Furniture,Furnishings,-81.63
+Corporate,2011.0,Portugal,EU,South,Office Supplies,Art,-127.44
+Corporate,2011.0,Portugal,EU,South,Office Supplies,Envelopes,-4.77
+Corporate,2011.0,Portugal,EU,South,Technology,Copiers,-216.765
+Corporate,2011.0,Romania,EMEA,EMEA,Furniture,Furnishings,24.75
+Corporate,2011.0,Romania,EMEA,EMEA,Furniture,Tables,43.71
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Art,31.950000000000003
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Binders,8.43
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Fasteners,6.66
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Labels,4.5
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Storage,7.14
+Corporate,2011.0,Romania,EMEA,EMEA,Office Supplies,Supplies,16.71
+Corporate,2011.0,Romania,EMEA,EMEA,Technology,Phones,383.76
+Corporate,2011.0,Russia,EMEA,EMEA,Furniture,Bookcases,1622.88
+Corporate,2011.0,Russia,EMEA,EMEA,Furniture,Chairs,200.54999999999998
+Corporate,2011.0,Russia,EMEA,EMEA,Furniture,Furnishings,312.65999999999997
+Corporate,2011.0,Russia,EMEA,EMEA,Office Supplies,Art,25.380000000000003
+Corporate,2011.0,Russia,EMEA,EMEA,Office Supplies,Binders,13.71
+Corporate,2011.0,Russia,EMEA,EMEA,Office Supplies,Storage,182.82
+Corporate,2011.0,Russia,EMEA,EMEA,Office Supplies,Supplies,80.4
+Corporate,2011.0,Russia,EMEA,EMEA,Technology,Accessories,36.84
+Corporate,2011.0,Russia,EMEA,EMEA,Technology,Copiers,465.54
+Corporate,2011.0,Russia,EMEA,EMEA,Technology,Machines,92.61
+Corporate,2011.0,Russia,EMEA,EMEA,Technology,Phones,2.94
+Corporate,2011.0,Rwanda,Africa,Africa,Office Supplies,Art,50.339999999999996
+Corporate,2011.0,Rwanda,Africa,Africa,Office Supplies,Storage,17.22
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Bookcases,61.62
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Chairs,146.52
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Furnishings,10.26
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Binders,3.84
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Envelopes,17.16
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Fasteners,4.2
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Labels,3.96
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Storage,54.9
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Accessories,7.38
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Copiers,183.36
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Machines,28.08
+Corporate,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Phones,193.02
+Corporate,2011.0,Senegal,Africa,Africa,Furniture,Furnishings,12.66
+Corporate,2011.0,Senegal,Africa,Africa,Office Supplies,Fasteners,8.64
+Corporate,2011.0,Senegal,Africa,Africa,Office Supplies,Storage,494.28000000000003
+Corporate,2011.0,Senegal,Africa,Africa,Technology,Copiers,83.34
+Corporate,2011.0,Sierra Leone,Africa,Africa,Office Supplies,Appliances,59.76
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Furniture,Furnishings,19.98
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Art,9.0
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Fasteners,14.31
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Labels,10.2
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Paper,130.5
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Storage,14.16
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Supplies,7.38
+Corporate,2011.0,Singapore,APAC,Southeast Asia,Technology,Copiers,232.11
+Corporate,2011.0,Slovakia,EMEA,EMEA,Office Supplies,Storage,18.78
+Corporate,2011.0,Somalia,Africa,Africa,Office Supplies,Labels,6.48
+Corporate,2011.0,South Africa,Africa,Africa,Furniture,Bookcases,41.4
+Corporate,2011.0,South Africa,Africa,Africa,Furniture,Furnishings,14.76
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Art,54.959999999999994
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Binders,22.29
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Fasteners,6.54
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Paper,21.299999999999997
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Storage,25.47
+Corporate,2011.0,South Africa,Africa,Africa,Office Supplies,Supplies,11.879999999999999
+Corporate,2011.0,South Africa,Africa,Africa,Technology,Accessories,44.1
+Corporate,2011.0,South Africa,Africa,Africa,Technology,Copiers,42.24
+Corporate,2011.0,South Africa,Africa,Africa,Technology,Machines,237.93
+Corporate,2011.0,South Africa,Africa,Africa,Technology,Phones,52.38
+Corporate,2011.0,South Korea,APAC,North Asia,Furniture,Bookcases,0.0
+Corporate,2011.0,South Korea,APAC,North Asia,Office Supplies,Envelopes,-23.625
+Corporate,2011.0,South Korea,APAC,North Asia,Office Supplies,Labels,-9.12
+Corporate,2011.0,South Korea,APAC,North Asia,Office Supplies,Paper,-6.48
+Corporate,2011.0,South Korea,APAC,North Asia,Office Supplies,Storage,-155.10000000000002
+Corporate,2011.0,South Korea,APAC,North Asia,Office Supplies,Supplies,-36.42
+Corporate,2011.0,South Korea,APAC,North Asia,Technology,Machines,-176.58
+Corporate,2011.0,Spain,EU,South,Furniture,Bookcases,470.67
+Corporate,2011.0,Spain,EU,South,Furniture,Chairs,-81.86399999999999
+Corporate,2011.0,Spain,EU,South,Furniture,Furnishings,124.2
+Corporate,2011.0,Spain,EU,South,Office Supplies,Appliances,2609.88
+Corporate,2011.0,Spain,EU,South,Office Supplies,Art,91.68
+Corporate,2011.0,Spain,EU,South,Office Supplies,Binders,23.61
+Corporate,2011.0,Spain,EU,South,Office Supplies,Fasteners,45.0
+Corporate,2011.0,Spain,EU,South,Office Supplies,Labels,17.58
+Corporate,2011.0,Spain,EU,South,Office Supplies,Paper,86.10000000000001
+Corporate,2011.0,Spain,EU,South,Office Supplies,Storage,311.946
+Corporate,2011.0,Spain,EU,South,Office Supplies,Supplies,18.12
+Corporate,2011.0,Spain,EU,South,Technology,Accessories,34.5
+Corporate,2011.0,Spain,EU,South,Technology,Machines,-31.326
+Corporate,2011.0,Spain,EU,South,Technology,Phones,233.77200000000002
+Corporate,2011.0,Sudan,Africa,Africa,Furniture,Chairs,13.68
+Corporate,2011.0,Sudan,Africa,Africa,Office Supplies,Appliances,35.94
+Corporate,2011.0,Sudan,Africa,Africa,Office Supplies,Supplies,5.28
+Corporate,2011.0,Sweden,EU,North,Furniture,Furnishings,-44.052
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Appliances,-27.585
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Art,-36.39000000000001
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Binders,-92.07
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Envelopes,-38.445
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Fasteners,-37.71
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Labels,-30.105
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Paper,-17.22
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Storage,-252.285
+Corporate,2011.0,Sweden,EU,North,Office Supplies,Supplies,-24.465
+Corporate,2011.0,Sweden,EU,North,Technology,Phones,-97.98
+Corporate,2011.0,Switzerland,EU,Central,Furniture,Bookcases,117.0
+Corporate,2011.0,Switzerland,EU,Central,Office Supplies,Art,8.04
+Corporate,2011.0,Switzerland,EU,Central,Office Supplies,Envelopes,6.6
+Corporate,2011.0,Switzerland,EU,Central,Office Supplies,Storage,57.24
+Corporate,2011.0,Taiwan,APAC,North Asia,Furniture,Bookcases,153.75
+Corporate,2011.0,Taiwan,APAC,North Asia,Furniture,Chairs,114.6
+Corporate,2011.0,Taiwan,APAC,North Asia,Furniture,Tables,1032.21
+Corporate,2011.0,Taiwan,APAC,North Asia,Office Supplies,Binders,14.04
+Corporate,2011.0,Taiwan,APAC,North Asia,Office Supplies,Envelopes,13.26
+Corporate,2011.0,Taiwan,APAC,North Asia,Office Supplies,Labels,9.48
+Corporate,2011.0,Taiwan,APAC,North Asia,Technology,Machines,68.22
+Corporate,2011.0,Tanzania,Africa,Africa,Office Supplies,Envelopes,9.84
+Corporate,2011.0,Tanzania,Africa,Africa,Office Supplies,Labels,4.32
+Corporate,2011.0,Tanzania,Africa,Africa,Office Supplies,Paper,25.86
+Corporate,2011.0,Tanzania,Africa,Africa,Office Supplies,Storage,149.49
+Corporate,2011.0,Tanzania,Africa,Africa,Technology,Machines,11.034
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Furniture,Chairs,-109.9365
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Furniture,Furnishings,1.4634
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Appliances,227.757
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Art,-75.9645
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Binders,2.232
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Fasteners,-49.36559999999999
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Labels,-26.3376
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Paper,-27.4242
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Supplies,-4.2258
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Technology,Accessories,1.8444000000000003
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Technology,Copiers,-262.10609999999997
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Technology,Machines,-32.352
+Corporate,2011.0,Thailand,APAC,Southeast Asia,Technology,Phones,364.23
+Corporate,2011.0,Turkey,EMEA,EMEA,Furniture,Bookcases,-602.976
+Corporate,2011.0,Turkey,EMEA,EMEA,Furniture,Chairs,-953.94
+Corporate,2011.0,Turkey,EMEA,EMEA,Furniture,Furnishings,-104.688
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Appliances,-111.30600000000001
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Art,-247.58999999999997
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Binders,-52.986000000000004
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Fasteners,-26.028
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Labels,-42.918
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Paper,-59.7
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Storage,-407.55
+Corporate,2011.0,Turkey,EMEA,EMEA,Office Supplies,Supplies,-156.534
+Corporate,2011.0,Turkey,EMEA,EMEA,Technology,Accessories,-143.814
+Corporate,2011.0,Turkey,EMEA,EMEA,Technology,Copiers,-288.39
+Corporate,2011.0,Turkey,EMEA,EMEA,Technology,Machines,-557.9340000000001
+Corporate,2011.0,Turkey,EMEA,EMEA,Technology,Phones,-1345.704
+Corporate,2011.0,Ukraine,EMEA,EMEA,Furniture,Chairs,23.1
+Corporate,2011.0,Ukraine,EMEA,EMEA,Furniture,Furnishings,2.16
+Corporate,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Binders,8.61
+Corporate,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Fasteners,0.72
+Corporate,2011.0,Ukraine,EMEA,EMEA,Technology,Copiers,236.52
+Corporate,2011.0,Ukraine,EMEA,EMEA,Technology,Phones,10.44
+Corporate,2011.0,United Kingdom,EU,North,Furniture,Bookcases,1658.568
+Corporate,2011.0,United Kingdom,EU,North,Furniture,Chairs,395.352
+Corporate,2011.0,United Kingdom,EU,North,Furniture,Furnishings,-37.14
+Corporate,2011.0,United Kingdom,EU,North,Furniture,Tables,1528.38
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Appliances,410.406
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Art,46.586999999999996
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Binders,94.482
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Envelopes,241.98
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Fasteners,-25.940999999999995
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Labels,12.78
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Paper,93.708
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Storage,402.37500000000006
+Corporate,2011.0,United Kingdom,EU,North,Office Supplies,Supplies,114.63000000000001
+Corporate,2011.0,United Kingdom,EU,North,Technology,Accessories,262.56
+Corporate,2011.0,United Kingdom,EU,North,Technology,Copiers,776.25
+Corporate,2011.0,United Kingdom,EU,North,Technology,Phones,2168.9429999999998
+Corporate,2011.0,United States,US,East,Furniture,Bookcases,234.46600000000012
+Corporate,2011.0,United States,US,South,Furniture,Chairs,1464.3075999999999
+Corporate,2011.0,United States,US,South,Furniture,Furnishings,671.9907
+Corporate,2011.0,United States,US,East,Furniture,Tables,-2009.4642999999999
+Corporate,2011.0,United States,US,East,Office Supplies,Appliances,1122.7072
+Corporate,2011.0,United States,US,South,Office Supplies,Art,516.8922000000002
+Corporate,2011.0,United States,US,Central,Office Supplies,Binders,1849.1155
+Corporate,2011.0,United States,US,Central,Office Supplies,Envelopes,460.92620000000005
+Corporate,2011.0,United States,US,Central,Office Supplies,Fasteners,66.9539
+Corporate,2011.0,United States,US,East,Office Supplies,Labels,664.3639999999999
+Corporate,2011.0,United States,US,East,Office Supplies,Paper,2540.9588000000003
+Corporate,2011.0,United States,US,East,Office Supplies,Storage,1663.9596
+Corporate,2011.0,United States,US,West,Office Supplies,Supplies,132.215
+Corporate,2011.0,United States,US,Central,Technology,Accessories,1659.5959
+Corporate,2011.0,United States,US,Central,Technology,Copiers,134.9955
+Corporate,2011.0,United States,US,West,Technology,Machines,-1154.6372999999999
+Corporate,2011.0,United States,US,Central,Technology,Phones,3493.9303999999997
+Corporate,2011.0,Uzbekistan,EMEA,EMEA,Office Supplies,Fasteners,0.18
+Corporate,2011.0,Uzbekistan,EMEA,EMEA,Office Supplies,Supplies,1.5
+Corporate,2011.0,Venezuela,LATAM,South,Furniture,Furnishings,-49.192
+Corporate,2011.0,Venezuela,LATAM,South,Furniture,Tables,-819.3760000000001
+Corporate,2011.0,Venezuela,LATAM,South,Office Supplies,Envelopes,-31.92
+Corporate,2011.0,Venezuela,LATAM,South,Office Supplies,Fasteners,-6.08
+Corporate,2011.0,Venezuela,LATAM,South,Office Supplies,Paper,-2.3520000000000003
+Corporate,2011.0,Venezuela,LATAM,South,Office Supplies,Storage,-480.276
+Corporate,2011.0,Venezuela,LATAM,South,Technology,Accessories,32.66
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Furniture,Bookcases,39.8646
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Appliances,922.7588999999999
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Fasteners,15.2835
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Labels,3.3924
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Technology,Machines,22.9698
+Corporate,2011.0,Vietnam,APAC,Southeast Asia,Technology,Phones,4.5579
+Corporate,2011.0,Zambia,Africa,Africa,Office Supplies,Storage,93.12
+Corporate,2011.0,Zimbabwe,Africa,Africa,Furniture,Furnishings,-20.142
+Corporate,2011.0,Zimbabwe,Africa,Africa,Furniture,Tables,-275.757
+Corporate,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Art,-21.168
+Corporate,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Storage,-157.485
+Corporate,2011.0,Zimbabwe,Africa,Africa,Office Supplies,Supplies,-55.728
+Corporate,2011.0,Zimbabwe,Africa,Africa,Technology,Copiers,-371.04
+Home Office,2011.0,Afghanistan,APAC,Central Asia,Office Supplies,Paper,2.55
+Home Office,2011.0,Algeria,Africa,Africa,Office Supplies,Binders,1.8
+Home Office,2011.0,Algeria,Africa,Africa,Office Supplies,Fasteners,4.14
+Home Office,2011.0,Algeria,Africa,Africa,Office Supplies,Paper,220.68
+Home Office,2011.0,Angola,Africa,Africa,Furniture,Bookcases,338.34
+Home Office,2011.0,Angola,Africa,Africa,Office Supplies,Storage,31.35
+Home Office,2011.0,Angola,Africa,Africa,Technology,Accessories,158.16
+Home Office,2011.0,Argentina,LATAM,South,Furniture,Bookcases,-463.26
+Home Office,2011.0,Argentina,LATAM,South,Furniture,Chairs,-83.544
+Home Office,2011.0,Argentina,LATAM,South,Furniture,Furnishings,-9.815999999999999
+Home Office,2011.0,Argentina,LATAM,South,Furniture,Tables,-267.306
+Home Office,2011.0,Argentina,LATAM,South,Office Supplies,Art,-6.444
+Home Office,2011.0,Argentina,LATAM,South,Office Supplies,Binders,-2.872
+Home Office,2011.0,Argentina,LATAM,South,Office Supplies,Envelopes,-5.568
+Home Office,2011.0,Argentina,LATAM,South,Technology,Accessories,-3.0720000000000027
+Home Office,2011.0,Argentina,LATAM,South,Technology,Phones,-1.12
+Home Office,2011.0,Australia,APAC,Oceania,Furniture,Bookcases,269.793
+Home Office,2011.0,Australia,APAC,Oceania,Furniture,Chairs,726.1320000000001
+Home Office,2011.0,Australia,APAC,Oceania,Furniture,Furnishings,105.95400000000001
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Appliances,1684.896
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Art,147.423
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Binders,13.008
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Envelopes,-51.534000000000006
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Fasteners,25.89
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Labels,23.307000000000002
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Paper,117.69899999999998
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Storage,164.68200000000002
+Home Office,2011.0,Australia,APAC,Oceania,Office Supplies,Supplies,162.132
+Home Office,2011.0,Australia,APAC,Oceania,Technology,Accessories,-5.856
+Home Office,2011.0,Australia,APAC,Oceania,Technology,Copiers,645.8729999999999
+Home Office,2011.0,Australia,APAC,Oceania,Technology,Machines,275.955
+Home Office,2011.0,Australia,APAC,Oceania,Technology,Phones,657.1410000000001
+Home Office,2011.0,Austria,EU,Central,Furniture,Bookcases,200.34
+Home Office,2011.0,Austria,EU,Central,Furniture,Chairs,571.95
+Home Office,2011.0,Austria,EU,Central,Office Supplies,Art,6.12
+Home Office,2011.0,Austria,EU,Central,Office Supplies,Binders,76.59
+Home Office,2011.0,Austria,EMEA,EMEA,Office Supplies,Envelopes,1.23
+Home Office,2011.0,Austria,EU,Central,Office Supplies,Paper,102.96
+Home Office,2011.0,Austria,EU,Central,Office Supplies,Storage,89.37
+Home Office,2011.0,Austria,EU,Central,Office Supplies,Supplies,50.64
+Home Office,2011.0,Austria,EU,Central,Technology,Copiers,76.08
+Home Office,2011.0,Austria,EU,Central,Technology,Machines,77.67
+Home Office,2011.0,Austria,EU,Central,Technology,Phones,65.88
+Home Office,2011.0,Belgium,EU,Central,Office Supplies,Binders,3.12
+Home Office,2011.0,Belgium,EU,Central,Office Supplies,Storage,119.85
+Home Office,2011.0,Belgium,EU,Central,Technology,Accessories,843.99
+Home Office,2011.0,Brazil,LATAM,South,Furniture,Bookcases,703.516
+Home Office,2011.0,Brazil,LATAM,South,Furniture,Chairs,-198.94000000000003
+Home Office,2011.0,Brazil,LATAM,South,Furniture,Furnishings,79.0
+Home Office,2011.0,Brazil,LATAM,South,Furniture,Tables,-87.736
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Appliances,108.924
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Art,7.512000000000001
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Binders,20.8
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Envelopes,-179.428
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Fasteners,-2.267999999999999
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Labels,8.88
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Paper,87.74000000000001
+Home Office,2011.0,Brazil,LATAM,South,Office Supplies,Storage,230.66
+Home Office,2011.0,Brazil,LATAM,South,Technology,Accessories,80.536
+Home Office,2011.0,Brazil,LATAM,South,Technology,Copiers,-408.71236
+Home Office,2011.0,Brazil,LATAM,South,Technology,Machines,-132.528
+Home Office,2011.0,Brazil,LATAM,South,Technology,Phones,194.936
+Home Office,2011.0,Bulgaria,EMEA,EMEA,Office Supplies,Art,0.27
+Home Office,2011.0,Bulgaria,EMEA,EMEA,Office Supplies,Envelopes,5.7
+Home Office,2011.0,Bulgaria,EMEA,EMEA,Technology,Copiers,46.86
+Home Office,2011.0,Bulgaria,EMEA,EMEA,Technology,Phones,279.96
+Home Office,2011.0,Cambodia,APAC,Southeast Asia,Furniture,Tables,292.59
+Home Office,2011.0,Cambodia,APAC,Southeast Asia,Office Supplies,Binders,20.16
+Home Office,2011.0,Cambodia,APAC,Southeast Asia,Office Supplies,Supplies,18.15
+Home Office,2011.0,Cambodia,APAC,Southeast Asia,Technology,Copiers,296.91
+Home Office,2011.0,Cameroon,Africa,Africa,Furniture,Chairs,63.33
+Home Office,2011.0,Cameroon,Africa,Africa,Office Supplies,Art,8.52
+Home Office,2011.0,Cameroon,Africa,Africa,Technology,Machines,809.28
+Home Office,2011.0,Canada,Canada,Canada,Furniture,Chairs,81.78
+Home Office,2011.0,Canada,Canada,Canada,Office Supplies,Appliances,67.26
+Home Office,2011.0,Canada,Canada,Canada,Office Supplies,Binders,25.65
+Home Office,2011.0,Canada,Canada,Canada,Office Supplies,Fasteners,8.4
+Home Office,2011.0,Canada,Canada,Canada,Office Supplies,Paper,7.71
+Home Office,2011.0,Canada,Canada,Canada,Office Supplies,Supplies,13.02
+Home Office,2011.0,Canada,Canada,Canada,Technology,Machines,18.06
+Home Office,2011.0,Chile,LATAM,South,Office Supplies,Labels,0.78
+Home Office,2011.0,Chile,LATAM,South,Office Supplies,Paper,9.48
+Home Office,2011.0,China,APAC,North Asia,Furniture,Bookcases,1049.67
+Home Office,2011.0,China,APAC,North Asia,Furniture,Chairs,579.21
+Home Office,2011.0,China,APAC,North Asia,Furniture,Furnishings,61.31999999999999
+Home Office,2011.0,China,APAC,North Asia,Furniture,Tables,-801.213
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Appliances,397.35
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Binders,89.7
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Envelopes,201.9
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Labels,49.650000000000006
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Paper,139.2
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Storage,196.44
+Home Office,2011.0,China,APAC,North Asia,Office Supplies,Supplies,44.64
+Home Office,2011.0,China,APAC,North Asia,Technology,Accessories,262.17
+Home Office,2011.0,China,APAC,North Asia,Technology,Copiers,2354.13
+Home Office,2011.0,China,APAC,North Asia,Technology,Machines,811.8299999999999
+Home Office,2011.0,China,APAC,North Asia,Technology,Phones,1671.39
+Home Office,2011.0,Colombia,LATAM,South,Furniture,Bookcases,30.08
+Home Office,2011.0,Colombia,LATAM,South,Furniture,Chairs,132.24
+Home Office,2011.0,Colombia,LATAM,South,Office Supplies,Art,88.51999999999998
+Home Office,2011.0,Colombia,LATAM,South,Office Supplies,Binders,5.16
+Home Office,2011.0,Colombia,LATAM,South,Office Supplies,Labels,28.7
+Home Office,2011.0,Colombia,LATAM,South,Office Supplies,Paper,0.54
+Home Office,2011.0,Colombia,LATAM,South,Office Supplies,Storage,42.68
+Home Office,2011.0,Colombia,LATAM,South,Technology,Accessories,5.52
+Home Office,2011.0,Colombia,LATAM,South,Technology,Copiers,11.11304
+Home Office,2011.0,Colombia,LATAM,South,Technology,Phones,12.72
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Furniture,Chairs,357.48
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Furniture,Tables,106.47
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Art,27.54
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Binders,3.9
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Office Supplies,Storage,4.11
+Home Office,2011.0,Cote d'Ivoire,Africa,Africa,Technology,Machines,200.52
+Home Office,2011.0,Cuba,LATAM,Caribbean,Furniture,Chairs,179.51999999999998
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Appliances,45.8
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Art,12.100000000000001
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Binders,67.82000000000001
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Envelopes,46.440000000000005
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Fasteners,24.12
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Labels,11.84
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Storage,107.06
+Home Office,2011.0,Cuba,LATAM,Caribbean,Office Supplies,Supplies,24.6
+Home Office,2011.0,Cuba,LATAM,Caribbean,Technology,Accessories,73.04
+Home Office,2011.0,Cuba,LATAM,Caribbean,Technology,Copiers,195.34536
+Home Office,2011.0,Cuba,LATAM,Caribbean,Technology,Machines,128.92
+Home Office,2011.0,Cuba,LATAM,Caribbean,Technology,Phones,80.67999999999999
+Home Office,2011.0,Czech Republic,EMEA,EMEA,Office Supplies,Art,12.12
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Furniture,Bookcases,132.54
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Furniture,Chairs,236.70000000000002
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Furniture,Furnishings,24.18
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Appliances,24.78
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Art,15.12
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Binders,45.87
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Envelopes,6.24
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Fasteners,34.2
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Labels,1.59
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Paper,0.0
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Office Supplies,Storage,14.1
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Accessories,75.84
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Machines,12.48
+Home Office,2011.0,Democratic Republic of the Congo,Africa,Africa,Technology,Phones,69.21000000000001
+Home Office,2011.0,Denmark,EU,North,Office Supplies,Labels,-7.515
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Bookcases,-7.968
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Chairs,41.227999999999994
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Furniture,Furnishings,-166.6
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Appliances,354.488
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Art,-7.896
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Binders,12.296
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Envelopes,36.08
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Fasteners,6.256
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Labels,6.176
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Paper,-1.02
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Storage,-7.616000000000001
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Office Supplies,Supplies,5.9879999999999995
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Copiers,-204.38188
+Home Office,2011.0,Dominican Republic,LATAM,Caribbean,Technology,Machines,-61.97
+Home Office,2011.0,Egypt,Africa,Africa,Furniture,Furnishings,20.16
+Home Office,2011.0,Egypt,Africa,Africa,Furniture,Tables,445.26
+Home Office,2011.0,Egypt,Africa,Africa,Office Supplies,Appliances,57.3
+Home Office,2011.0,Egypt,Africa,Africa,Office Supplies,Art,22.92
+Home Office,2011.0,Egypt,Africa,Africa,Office Supplies,Binders,24.48
+Home Office,2011.0,Egypt,Africa,Africa,Office Supplies,Labels,0.48
+Home Office,2011.0,Egypt,Africa,Africa,Technology,Accessories,99.24
+Home Office,2011.0,El Salvador,LATAM,Central,Furniture,Furnishings,5.1
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Appliances,301.84
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Art,55.4
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Envelopes,7.14
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Fasteners,3.16
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Labels,6.24
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Paper,10.68
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Storage,14.58
+Home Office,2011.0,El Salvador,LATAM,Central,Office Supplies,Supplies,16.14
+Home Office,2011.0,Finland,EU,North,Furniture,Chairs,158.58
+Home Office,2011.0,France,EU,Central,Furniture,Bookcases,506.007
+Home Office,2011.0,France,EU,Central,Furniture,Chairs,675.375
+Home Office,2011.0,France,EU,Central,Furniture,Furnishings,146.34
+Home Office,2011.0,France,EU,Central,Furniture,Tables,-135.144
+Home Office,2011.0,France,EU,Central,Office Supplies,Appliances,291.219
+Home Office,2011.0,France,EU,Central,Office Supplies,Art,418.97999999999996
+Home Office,2011.0,France,EU,Central,Office Supplies,Binders,383.73
+Home Office,2011.0,France,EU,Central,Office Supplies,Envelopes,30.54
+Home Office,2011.0,France,EU,Central,Office Supplies,Fasteners,42.12
+Home Office,2011.0,France,EU,Central,Office Supplies,Labels,83.31
+Home Office,2011.0,France,EU,Central,Office Supplies,Paper,175.07999999999998
+Home Office,2011.0,France,EU,Central,Office Supplies,Storage,-13.229999999999976
+Home Office,2011.0,France,EU,Central,Office Supplies,Supplies,375.315
+Home Office,2011.0,France,EU,Central,Technology,Accessories,137.61
+Home Office,2011.0,France,EU,Central,Technology,Copiers,280.182
+Home Office,2011.0,France,EU,Central,Technology,Machines,488.73750000000007
+Home Office,2011.0,France,EU,Central,Technology,Phones,223.22699999999995
+Home Office,2011.0,Germany,EU,Central,Furniture,Bookcases,515.034
+Home Office,2011.0,Germany,EU,Central,Furniture,Chairs,-20.025
+Home Office,2011.0,Germany,EU,Central,Furniture,Furnishings,176.73
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Appliances,227.373
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Art,358.896
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Binders,97.161
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Envelopes,7.362
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Fasteners,0.63
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Labels,15.030000000000001
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Paper,125.75999999999999
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Storage,-97.818
+Home Office,2011.0,Germany,EU,Central,Office Supplies,Supplies,74.91
+Home Office,2011.0,Germany,EU,Central,Technology,Accessories,-229.24499999999998
+Home Office,2011.0,Germany,EU,Central,Technology,Copiers,159.9
+Home Office,2011.0,Germany,EU,Central,Technology,Machines,193.73999999999998
+Home Office,2011.0,Germany,EU,Central,Technology,Phones,367.06500000000005
+Home Office,2011.0,Ghana,Africa,Africa,Technology,Copiers,28.77
+Home Office,2011.0,Guatemala,LATAM,Central,Furniture,Bookcases,84.9
+Home Office,2011.0,Guatemala,LATAM,Central,Furniture,Chairs,32.6
+Home Office,2011.0,Guatemala,LATAM,Central,Furniture,Furnishings,2.6
+Home Office,2011.0,Guatemala,LATAM,Central,Office Supplies,Appliances,366.03999999999996
+Home Office,2011.0,Guatemala,LATAM,Central,Office Supplies,Envelopes,13.96
+Home Office,2011.0,Guatemala,LATAM,Central,Office Supplies,Fasteners,7.44
+Home Office,2011.0,Guatemala,LATAM,Central,Office Supplies,Labels,13.2
+Home Office,2011.0,Guatemala,LATAM,Central,Office Supplies,Paper,7.02
+Home Office,2011.0,Guatemala,LATAM,Central,Technology,Accessories,60.64
+Home Office,2011.0,Guatemala,LATAM,Central,Technology,Copiers,70.72496
+Home Office,2011.0,Guatemala,LATAM,Central,Technology,Phones,204.57999999999998
+Home Office,2011.0,Guinea-Bissau,Africa,Africa,Office Supplies,Fasteners,3.3
+Home Office,2011.0,Guinea-Bissau,Africa,Africa,Office Supplies,Storage,25.65
+Home Office,2011.0,Haiti,LATAM,Caribbean,Office Supplies,Art,5.383999999999999
+Home Office,2011.0,Honduras,LATAM,Central,Furniture,Bookcases,-716.0200000000001
+Home Office,2011.0,Honduras,LATAM,Central,Furniture,Chairs,-80.012
+Home Office,2011.0,Honduras,LATAM,Central,Furniture,Furnishings,-21.784
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Appliances,-79.764
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Art,-37.92400000000001
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Binders,-43.372
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Envelopes,12.384
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Fasteners,-12.796
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Labels,-9.504
+Home Office,2011.0,Honduras,LATAM,Central,Office Supplies,Storage,-23.856
+Home Office,2011.0,Honduras,LATAM,Central,Technology,Accessories,9.847999999999999
+Home Office,2011.0,Honduras,LATAM,Central,Technology,Copiers,-217.42564
+Home Office,2011.0,Honduras,LATAM,Central,Technology,Phones,8.767999999999999
+Home Office,2011.0,Hong Kong,APAC,North Asia,Office Supplies,Fasteners,5.13
+Home Office,2011.0,Hong Kong,APAC,North Asia,Technology,Phones,29.94
+Home Office,2011.0,Hungary,EMEA,EMEA,Office Supplies,Art,12.21
+Home Office,2011.0,India,APAC,Central Asia,Furniture,Bookcases,908.34
+Home Office,2011.0,India,APAC,Central Asia,Furniture,Chairs,84.6
+Home Office,2011.0,India,APAC,Central Asia,Furniture,Furnishings,150.99
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Appliances,45.42
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Art,28.29
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Binders,17.79
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Envelopes,75.72
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Fasteners,33.48
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Labels,53.07
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Paper,57.18
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Storage,70.05
+Home Office,2011.0,India,APAC,Central Asia,Office Supplies,Supplies,85.23
+Home Office,2011.0,India,APAC,Central Asia,Technology,Accessories,497.4599999999999
+Home Office,2011.0,India,APAC,Central Asia,Technology,Copiers,576.36
+Home Office,2011.0,India,APAC,Central Asia,Technology,Machines,437.82
+Home Office,2011.0,India,APAC,Central Asia,Technology,Phones,913.5600000000002
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Bookcases,194.673
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Chairs,140.19029999999998
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Furnishings,-18.1356
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Furniture,Tables,-301.8012
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Appliances,322.97970000000004
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Art,-37.0776
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Binders,2.2998
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Envelopes,-17.3901
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Fasteners,-14.148
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Labels,-6.8481
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Paper,-45.483000000000004
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Storage,-18.2484
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Office Supplies,Supplies,-96.9006
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Technology,Accessories,-45.8862
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Technology,Machines,117.501
+Home Office,2011.0,Indonesia,APAC,Southeast Asia,Technology,Phones,523.8408
+Home Office,2011.0,Iran,EMEA,EMEA,Furniture,Tables,63.66
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Art,116.31
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Binders,4.2
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Envelopes,7.08
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Fasteners,25.38
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Labels,1.5
+Home Office,2011.0,Iran,EMEA,EMEA,Office Supplies,Storage,70.47
+Home Office,2011.0,Iran,EMEA,EMEA,Technology,Accessories,102.45
+Home Office,2011.0,Iran,EMEA,EMEA,Technology,Machines,20.73
+Home Office,2011.0,Iran,EMEA,EMEA,Technology,Phones,284.25
+Home Office,2011.0,Iraq,EMEA,EMEA,Furniture,Furnishings,18.72
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Art,29.16
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Binders,115.68
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Fasteners,6.78
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Paper,4.02
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Storage,119.52000000000001
+Home Office,2011.0,Iraq,EMEA,EMEA,Office Supplies,Supplies,32.489999999999995
+Home Office,2011.0,Ireland,EU,North,Office Supplies,Envelopes,-3.825
+Home Office,2011.0,Ireland,EU,North,Office Supplies,Fasteners,-5.655
+Home Office,2011.0,Ireland,EU,North,Office Supplies,Supplies,-59.28
+Home Office,2011.0,Ireland,EU,North,Technology,Copiers,-220.95
+Home Office,2011.0,Ireland,EU,North,Technology,Phones,-142.68
+Home Office,2011.0,Israel,EMEA,EMEA,Furniture,Chairs,21.72
+Home Office,2011.0,Israel,EMEA,EMEA,Office Supplies,Binders,7.68
+Home Office,2011.0,Israel,EMEA,EMEA,Office Supplies,Envelopes,140.64
+Home Office,2011.0,Israel,EMEA,EMEA,Office Supplies,Paper,0.0
+Home Office,2011.0,Italy,EU,South,Furniture,Bookcases,758.64
+Home Office,2011.0,Italy,EU,South,Furniture,Chairs,-309.6
+Home Office,2011.0,Italy,EU,South,Furniture,Furnishings,111.83999999999999
+Home Office,2011.0,Italy,EU,South,Office Supplies,Art,194.37
+Home Office,2011.0,Italy,EU,South,Office Supplies,Binders,120.24000000000001
+Home Office,2011.0,Italy,EU,South,Office Supplies,Envelopes,21.24
+Home Office,2011.0,Italy,EU,South,Office Supplies,Fasteners,24.84
+Home Office,2011.0,Italy,EU,South,Office Supplies,Labels,23.55
+Home Office,2011.0,Italy,EU,South,Office Supplies,Storage,-326.80199999999996
+Home Office,2011.0,Italy,EU,South,Office Supplies,Supplies,174.72
+Home Office,2011.0,Italy,EU,South,Technology,Accessories,66.42
+Home Office,2011.0,Italy,EU,South,Technology,Copiers,146.07
+Home Office,2011.0,Jamaica,LATAM,Caribbean,Furniture,Bookcases,303.7
+Home Office,2011.0,Jamaica,LATAM,Caribbean,Furniture,Furnishings,57.2
+Home Office,2011.0,Jamaica,LATAM,Caribbean,Office Supplies,Labels,0.8
+Home Office,2011.0,Japan,APAC,North Asia,Furniture,Chairs,436.77
+Home Office,2011.0,Japan,APAC,North Asia,Furniture,Furnishings,2.16
+Home Office,2011.0,Japan,APAC,North Asia,Office Supplies,Art,22.92
+Home Office,2011.0,Japan,APAC,North Asia,Office Supplies,Fasteners,15.48
+Home Office,2011.0,Japan,APAC,North Asia,Office Supplies,Labels,4.77
+Home Office,2011.0,Japan,APAC,North Asia,Technology,Phones,57.66
+Home Office,2011.0,Kazakhstan,EMEA,EMEA,Furniture,Bookcases,-64.236
+Home Office,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Binders,-10.545
+Home Office,2011.0,Kazakhstan,EMEA,EMEA,Office Supplies,Envelopes,-7.992000000000001
+Home Office,2011.0,Kenya,Africa,Africa,Office Supplies,Art,22.470000000000002
+Home Office,2011.0,Kenya,Africa,Africa,Office Supplies,Binders,89.61
+Home Office,2011.0,Kyrgyzstan,EMEA,EMEA,Office Supplies,Envelopes,6.09
+Home Office,2011.0,Lebanon,EMEA,EMEA,Furniture,Chairs,169.14
+Home Office,2011.0,Lebanon,EMEA,EMEA,Office Supplies,Storage,23.31
+Home Office,2011.0,Liberia,Africa,Africa,Furniture,Furnishings,0.96
+Home Office,2011.0,Liberia,Africa,Africa,Office Supplies,Fasteners,7.98
+Home Office,2011.0,Liberia,Africa,Africa,Office Supplies,Labels,0.18
+Home Office,2011.0,Liberia,Africa,Africa,Technology,Accessories,53.94
+Home Office,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Art,-160.434
+Home Office,2011.0,Lithuania,EMEA,EMEA,Office Supplies,Binders,-3.456
+Home Office,2011.0,Madagascar,Africa,Africa,Office Supplies,Storage,34.44
+Home Office,2011.0,Madagascar,Africa,Africa,Technology,Phones,14.4
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Binders,22.95
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Envelopes,46.95
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Paper,27.54
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Office Supplies,Storage,68.4
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Technology,Accessories,628.5
+Home Office,2011.0,Malaysia,APAC,Southeast Asia,Technology,Copiers,50.13
+Home Office,2011.0,Mexico,LATAM,North,Furniture,Bookcases,-21.1
+Home Office,2011.0,Mexico,LATAM,North,Furniture,Chairs,116.916
+Home Office,2011.0,Mexico,LATAM,North,Furniture,Tables,31.256
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Appliances,256.28
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Art,111.82
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Binders,32.28
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Envelopes,32.72
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Fasteners,39.36
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Labels,7.52
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Paper,151.78
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Storage,89.64
+Home Office,2011.0,Mexico,LATAM,North,Office Supplies,Supplies,120.84
+Home Office,2011.0,Mexico,LATAM,North,Technology,Accessories,378.79999999999995
+Home Office,2011.0,Mexico,LATAM,North,Technology,Copiers,185.84196
+Home Office,2011.0,Mexico,LATAM,North,Technology,Machines,672.78
+Home Office,2011.0,Mexico,LATAM,North,Technology,Phones,265.64000000000004
+Home Office,2011.0,Moldova,EMEA,EMEA,Furniture,Furnishings,1.02
+Home Office,2011.0,Moldova,EMEA,EMEA,Office Supplies,Art,30.779999999999998
+Home Office,2011.0,Moldova,EMEA,EMEA,Office Supplies,Fasteners,4.44
+Home Office,2011.0,Moldova,EMEA,EMEA,Office Supplies,Storage,17.76
+Home Office,2011.0,Moldova,EMEA,EMEA,Office Supplies,Supplies,22.38
+Home Office,2011.0,Moldova,EMEA,EMEA,Technology,Phones,30.54
+Home Office,2011.0,Morocco,Africa,Africa,Office Supplies,Art,34.8
+Home Office,2011.0,Morocco,Africa,Africa,Office Supplies,Binders,60.12
+Home Office,2011.0,Morocco,Africa,Africa,Office Supplies,Storage,10.68
+Home Office,2011.0,Morocco,Africa,Africa,Technology,Copiers,449.88
+Home Office,2011.0,Mozambique,Africa,Africa,Furniture,Chairs,15.12
+Home Office,2011.0,Mozambique,Africa,Africa,Office Supplies,Art,0.0
+Home Office,2011.0,Mozambique,Africa,Africa,Office Supplies,Binders,6.84
+Home Office,2011.0,Mozambique,Africa,Africa,Office Supplies,Labels,0.18
+Home Office,2011.0,Mozambique,Africa,Africa,Office Supplies,Paper,4.65
+Home Office,2011.0,Mozambique,Africa,Africa,Office Supplies,Storage,6.18
+Home Office,2011.0,Netherlands,EU,Central,Furniture,Bookcases,-630.99
+Home Office,2011.0,Netherlands,EU,Central,Office Supplies,Art,-30.78
+Home Office,2011.0,Netherlands,EU,Central,Office Supplies,Binders,-48.09
+Home Office,2011.0,Netherlands,EU,Central,Office Supplies,Paper,-9.99
+Home Office,2011.0,New Zealand,APAC,Oceania,Furniture,Chairs,-10.464
+Home Office,2011.0,New Zealand,APAC,Oceania,Furniture,Furnishings,2.892
+Home Office,2011.0,New Zealand,APAC,Oceania,Office Supplies,Art,-19.08
+Home Office,2011.0,New Zealand,APAC,Oceania,Office Supplies,Binders,45.24
+Home Office,2011.0,New Zealand,APAC,Oceania,Office Supplies,Envelopes,-51.636
+Home Office,2011.0,New Zealand,APAC,Oceania,Office Supplies,Labels,32.58
+Home Office,2011.0,New Zealand,APAC,Oceania,Technology,Accessories,-62.028
+Home Office,2011.0,New Zealand,APAC,Oceania,Technology,Machines,23.4
+Home Office,2011.0,Nicaragua,LATAM,Central,Furniture,Bookcases,3.3
+Home Office,2011.0,Nicaragua,LATAM,Central,Furniture,Chairs,33.1
+Home Office,2011.0,Nicaragua,LATAM,Central,Office Supplies,Binders,5.56
+Home Office,2011.0,Nicaragua,LATAM,Central,Office Supplies,Paper,11.32
+Home Office,2011.0,Nicaragua,LATAM,Central,Office Supplies,Supplies,5.64
+Home Office,2011.0,Nicaragua,LATAM,Central,Technology,Phones,992.16
+Home Office,2011.0,Niger,Africa,Africa,Office Supplies,Art,28.98
+Home Office,2011.0,Niger,Africa,Africa,Office Supplies,Binders,4.32
+Home Office,2011.0,Niger,Africa,Africa,Technology,Phones,216.72
+Home Office,2011.0,Nigeria,Africa,Africa,Furniture,Bookcases,-280.65
+Home Office,2011.0,Nigeria,Africa,Africa,Furniture,Chairs,-66.054
+Home Office,2011.0,Nigeria,Africa,Africa,Furniture,Furnishings,-254.01
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Appliances,-695.172
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Art,-293.493
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Binders,-122.634
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Envelopes,-14.916
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Fasteners,-40.608
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Labels,-13.026
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Paper,-55.797
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Storage,-445.053
+Home Office,2011.0,Nigeria,Africa,Africa,Office Supplies,Supplies,-11.121
+Home Office,2011.0,Nigeria,Africa,Africa,Technology,Accessories,-200.445
+Home Office,2011.0,Nigeria,Africa,Africa,Technology,Copiers,-80.016
+Home Office,2011.0,Nigeria,Africa,Africa,Technology,Machines,-164.48999999999998
+Home Office,2011.0,Nigeria,Africa,Africa,Technology,Phones,-100.905
+Home Office,2011.0,Norway,EU,North,Office Supplies,Labels,10.92
+Home Office,2011.0,Norway,EU,North,Office Supplies,Storage,11.04
+Home Office,2011.0,Norway,EU,North,Office Supplies,Supplies,10.29
+Home Office,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Binders,-26.46
+Home Office,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Labels,-1.5
+Home Office,2011.0,Pakistan,APAC,Central Asia,Office Supplies,Storage,-231.54
+Home Office,2011.0,Panama,LATAM,Central,Furniture,Bookcases,6.803999999999999
+Home Office,2011.0,Panama,LATAM,Central,Office Supplies,Art,2.568
+Home Office,2011.0,Panama,LATAM,Central,Office Supplies,Binders,-1.12
+Home Office,2011.0,Panama,LATAM,Central,Office Supplies,Fasteners,-2.448
+Home Office,2011.0,Panama,LATAM,Central,Technology,Copiers,9.12
+Home Office,2011.0,Peru,LATAM,South,Furniture,Bookcases,5.8
+Home Office,2011.0,Peru,LATAM,South,Furniture,Chairs,-38.712
+Home Office,2011.0,Peru,LATAM,South,Office Supplies,Binders,-4.351999999999999
+Home Office,2011.0,Peru,LATAM,South,Office Supplies,Labels,-2.032
+Home Office,2011.0,Peru,LATAM,South,Office Supplies,Storage,9.044
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Furniture,Bookcases,-153.15
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Furniture,Chairs,1.5375000000000014
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Furniture,Furnishings,31.792499999999997
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Art,-16.494
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Binders,86.73599999999999
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Envelopes,-76.794
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Fasteners,-6.8955
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Paper,-88.86
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Storage,-9.0135
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Office Supplies,Supplies,-15.012
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Technology,Accessories,-54.75000000000001
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Technology,Copiers,-343.098
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Technology,Machines,-349.2
+Home Office,2011.0,Philippines,APAC,Southeast Asia,Technology,Phones,127.6425
+Home Office,2011.0,Poland,EMEA,EMEA,Furniture,Bookcases,52.92
+Home Office,2011.0,Poland,EMEA,EMEA,Furniture,Furnishings,3.0
+Home Office,2011.0,Poland,EMEA,EMEA,Office Supplies,Art,119.1
+Home Office,2011.0,Poland,EMEA,EMEA,Office Supplies,Binders,0.39
+Home Office,2011.0,Poland,EMEA,EMEA,Office Supplies,Paper,42.84
+Home Office,2011.0,Poland,EMEA,EMEA,Office Supplies,Storage,22.08
+Home Office,2011.0,Poland,EMEA,EMEA,Office Supplies,Supplies,11.16
+Home Office,2011.0,Poland,EMEA,EMEA,Technology,Machines,36.42
+Home Office,2011.0,Qatar,EMEA,EMEA,Office Supplies,Art,89.10000000000001
+Home Office,2011.0,Romania,EMEA,EMEA,Furniture,Bookcases,178.74
+Home Office,2011.0,Romania,EMEA,EMEA,Furniture,Furnishings,82.41
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Appliances,159.63
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Art,4.71
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Binders,47.76
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Fasteners,12.24
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Paper,8.52
+Home Office,2011.0,Romania,EMEA,EMEA,Office Supplies,Storage,143.76
+Home Office,2011.0,Romania,EMEA,EMEA,Technology,Copiers,177.96
+Home Office,2011.0,Romania,EMEA,EMEA,Technology,Machines,24.24
+Home Office,2011.0,Russia,EMEA,EMEA,Furniture,Bookcases,116.43
+Home Office,2011.0,Russia,EMEA,EMEA,Office Supplies,Art,42.48
+Home Office,2011.0,Russia,EMEA,EMEA,Office Supplies,Binders,7.29
+Home Office,2011.0,Russia,EMEA,EMEA,Office Supplies,Envelopes,29.220000000000002
+Home Office,2011.0,Russia,EMEA,EMEA,Technology,Accessories,66.24
+Home Office,2011.0,Rwanda,Africa,Africa,Office Supplies,Supplies,0.0
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Bookcases,213.96
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Chairs,34.08
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Furniture,Furnishings,10.83
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Art,168.84
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Binders,15.18
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Envelopes,4.65
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Fasteners,12.36
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Paper,6.54
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Office Supplies,Supplies,5.46
+Home Office,2011.0,Saudi Arabia,EMEA,EMEA,Technology,Accessories,139.32
+Home Office,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Binders,55.56
+Home Office,2011.0,Singapore,APAC,Southeast Asia,Office Supplies,Labels,5.46
+Home Office,2011.0,South Africa,Africa,Africa,Furniture,Bookcases,18.21
+Home Office,2011.0,South Africa,Africa,Africa,Furniture,Chairs,129.84
+Home Office,2011.0,South Africa,Africa,Africa,Furniture,Furnishings,20.79
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Appliances,91.97999999999999
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Art,60.45
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Binders,14.82
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Envelopes,93.11999999999999
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Fasteners,5.82
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Paper,2.73
+Home Office,2011.0,South Africa,Africa,Africa,Office Supplies,Storage,872.4
+Home Office,2011.0,South Africa,Africa,Africa,Technology,Accessories,13.26
+Home Office,2011.0,South Africa,Africa,Africa,Technology,Copiers,216.48
+Home Office,2011.0,South Korea,APAC,North Asia,Furniture,Bookcases,-130.968
+Home Office,2011.0,South Korea,APAC,North Asia,Furniture,Furnishings,-26.592
+Home Office,2011.0,South Korea,APAC,North Asia,Furniture,Tables,-304.224
+Home Office,2011.0,South Korea,APAC,North Asia,Office Supplies,Appliances,-823.95
+Home Office,2011.0,South Korea,APAC,North Asia,Office Supplies,Binders,-30.465
+Home Office,2011.0,South Korea,APAC,North Asia,Office Supplies,Fasteners,-1.17
+Home Office,2011.0,South Korea,APAC,North Asia,Office Supplies,Storage,-461.82
+Home Office,2011.0,South Korea,APAC,North Asia,Technology,Accessories,-50.55
+Home Office,2011.0,South Korea,APAC,North Asia,Technology,Copiers,-229.08
+Home Office,2011.0,South Korea,APAC,North Asia,Technology,Machines,-152.88
+Home Office,2011.0,South Sudan,Africa,Africa,Technology,Phones,19.92
+Home Office,2011.0,Spain,EU,South,Furniture,Bookcases,305.1
+Home Office,2011.0,Spain,EU,South,Furniture,Chairs,18.894
+Home Office,2011.0,Spain,EU,South,Furniture,Furnishings,44.52
+Home Office,2011.0,Spain,EU,South,Furniture,Tables,-181.44
+Home Office,2011.0,Spain,EU,South,Office Supplies,Appliances,175.14
+Home Office,2011.0,Spain,EU,South,Office Supplies,Art,120.63
+Home Office,2011.0,Spain,EU,South,Office Supplies,Binders,97.47
+Home Office,2011.0,Spain,EU,South,Office Supplies,Envelopes,53.85
+Home Office,2011.0,Spain,EU,South,Office Supplies,Fasteners,15.15
+Home Office,2011.0,Spain,EU,South,Office Supplies,Labels,13.5
+Home Office,2011.0,Spain,EU,South,Office Supplies,Paper,60.959999999999994
+Home Office,2011.0,Spain,EU,South,Office Supplies,Storage,48.61499999999999
+Home Office,2011.0,Spain,EU,South,Technology,Copiers,700.65
+Home Office,2011.0,Sweden,EU,North,Furniture,Bookcases,-29.58
+Home Office,2011.0,Sweden,EU,North,Office Supplies,Art,-61.65
+Home Office,2011.0,Sweden,EU,North,Office Supplies,Binders,-0.42
+Home Office,2011.0,Sweden,EU,North,Office Supplies,Paper,-26.055
+Home Office,2011.0,Switzerland,EU,Central,Office Supplies,Storage,5.04
+Home Office,2011.0,Tanzania,Africa,Africa,Office Supplies,Art,14.94
+Home Office,2011.0,Tanzania,Africa,Africa,Technology,Accessories,9.96
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Furniture,Chairs,-349.4727
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Furniture,Furnishings,-52.346999999999994
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Appliances,19.8972
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Art,-12.495
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Binders,-25.9488
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Envelopes,-31.017
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Fasteners,-3.0015
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Labels,-0.531
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Storage,-10.797600000000001
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Office Supplies,Supplies,-0.5133
+Home Office,2011.0,Thailand,APAC,Southeast Asia,Technology,Copiers,-88.2426
+Home Office,2011.0,Turkey,EMEA,EMEA,Furniture,Bookcases,-242.196
+Home Office,2011.0,Turkey,EMEA,EMEA,Furniture,Chairs,-201.82800000000003
+Home Office,2011.0,Turkey,EMEA,EMEA,Furniture,Furnishings,-3.552
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Appliances,-1869.876
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Art,-139.25400000000002
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Binders,-55.782000000000004
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Envelopes,-7.644
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Paper,-15.906
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Storage,-869.2740000000001
+Home Office,2011.0,Turkey,EMEA,EMEA,Office Supplies,Supplies,-150.912
+Home Office,2011.0,Turkey,EMEA,EMEA,Technology,Accessories,-428.106
+Home Office,2011.0,Turkey,EMEA,EMEA,Technology,Copiers,-44.838
+Home Office,2011.0,Turkey,EMEA,EMEA,Technology,Machines,-275.64
+Home Office,2011.0,Turkey,EMEA,EMEA,Technology,Phones,-379.734
+Home Office,2011.0,Turkmenistan,EMEA,EMEA,Office Supplies,Binders,-20.973
+Home Office,2011.0,Turkmenistan,EMEA,EMEA,Office Supplies,Supplies,-20.319
+Home Office,2011.0,Turkmenistan,EMEA,EMEA,Technology,Accessories,-47.166
+Home Office,2011.0,Ukraine,EMEA,EMEA,Furniture,Chairs,76.5
+Home Office,2011.0,Ukraine,EMEA,EMEA,Furniture,Tables,130.08
+Home Office,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Art,16.32
+Home Office,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Fasteners,18.419999999999998
+Home Office,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Labels,9.75
+Home Office,2011.0,Ukraine,EMEA,EMEA,Office Supplies,Storage,36.36
+Home Office,2011.0,Ukraine,EMEA,EMEA,Technology,Machines,236.04
+Home Office,2011.0,United Kingdom,EU,North,Furniture,Bookcases,373.10999999999996
+Home Office,2011.0,United Kingdom,EU,North,Furniture,Chairs,69.6
+Home Office,2011.0,United Kingdom,EU,North,Furniture,Furnishings,-7.605
+Home Office,2011.0,United Kingdom,EU,North,Furniture,Tables,323.46
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Art,118.344
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Binders,172.62
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Envelopes,10.26
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Fasteners,17.475
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Labels,15.51
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Paper,76.2
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Storage,183.234
+Home Office,2011.0,United Kingdom,EU,North,Office Supplies,Supplies,45.78
+Home Office,2011.0,United Kingdom,EU,North,Technology,Accessories,19.35
+Home Office,2011.0,United Kingdom,EU,North,Technology,Copiers,331.68
+Home Office,2011.0,United Kingdom,EU,North,Technology,Machines,343.824
+Home Office,2011.0,United Kingdom,EU,North,Technology,Phones,23.37
+Home Office,2011.0,United States,US,East,Furniture,Bookcases,73.66980000000001
+Home Office,2011.0,United States,US,Central,Furniture,Chairs,2001.7677999999999
+Home Office,2011.0,United States,US,South,Furniture,Furnishings,480.0144
+Home Office,2011.0,United States,US,West,Furniture,Tables,905.1564
+Home Office,2011.0,United States,US,Central,Office Supplies,Appliances,882.3809999999999
+Home Office,2011.0,United States,US,East,Office Supplies,Art,191.6367
+Home Office,2011.0,United States,US,Central,Office Supplies,Binders,569.8871000000001
+Home Office,2011.0,United States,US,Central,Office Supplies,Envelopes,206.2702
+Home Office,2011.0,United States,US,West,Office Supplies,Fasteners,10.7878
+Home Office,2011.0,United States,US,Central,Office Supplies,Labels,155.33679999999998
+Home Office,2011.0,United States,US,South,Office Supplies,Paper,943.9658
+Home Office,2011.0,United States,US,South,Office Supplies,Storage,1009.7838999999999
+Home Office,2011.0,United States,US,East,Office Supplies,Supplies,10.766
+Home Office,2011.0,United States,US,East,Technology,Accessories,1686.3093999999999
+Home Office,2011.0,United States,US,Central,Technology,Copiers,274.995
+Home Office,2011.0,United States,US,East,Technology,Machines,770.6179000000001
+Home Office,2011.0,United States,US,South,Technology,Phones,1537.5008000000003
+Home Office,2011.0,Uruguay,LATAM,South,Furniture,Chairs,6.12
+Home Office,2011.0,Uzbekistan,EMEA,EMEA,Office Supplies,Storage,43.17
+Home Office,2011.0,Uzbekistan,EMEA,EMEA,Technology,Accessories,13.89
+Home Office,2011.0,Uzbekistan,EMEA,EMEA,Technology,Phones,37.95
+Home Office,2011.0,Venezuela,LATAM,South,Furniture,Bookcases,-106.116
+Home Office,2011.0,Venezuela,LATAM,South,Furniture,Chairs,-20.028000000000002
+Home Office,2011.0,Venezuela,LATAM,South,Office Supplies,Appliances,-316.28
+Home Office,2011.0,Venezuela,LATAM,South,Office Supplies,Art,-90.024
+Home Office,2011.0,Venezuela,LATAM,South,Office Supplies,Envelopes,-25.6
+Home Office,2011.0,Venezuela,LATAM,South,Office Supplies,Storage,-9.6
+Home Office,2011.0,Venezuela,LATAM,South,Office Supplies,Supplies,-139.076
+Home Office,2011.0,Venezuela,LATAM,South,Technology,Accessories,1.904
+Home Office,2011.0,Venezuela,LATAM,South,Technology,Machines,-170.208
+Home Office,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Paper,11.5893
+Home Office,2011.0,Vietnam,APAC,Southeast Asia,Office Supplies,Storage,29.2686
+Home Office,2011.0,Vietnam,APAC,Southeast Asia,Technology,Copiers,-147.5229
+Home Office,2011.0,Zambia,Africa,Africa,Furniture,Chairs,90.24
+Home Office,2011.0,Zambia,Africa,Africa,Furniture,Tables,682.92
+Home Office,2011.0,Zambia,Africa,Africa,Office Supplies,Paper,2.85
+Home Office,2011.0,Zambia,Africa,Africa,Office Supplies,Storage,161.16
